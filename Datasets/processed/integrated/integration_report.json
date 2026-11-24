@@ -1,0 +1,57 @@
+{
+  "integration_executed_at": "2026-11-04T14:00:39.408394",
+  "target_district": "Warangal",
+  "target_state": "Telangana",
+  "price_arrival_integration": {
+    "total_integrated_observations": 10889,
+    "both_price_and_arrival_reported": 227,
+    "price_reported_only": 10563,
+    "arrival_reported_only": 99,
+    "date_min": "2021-11-01",
+    "date_max": "2026-11-01",
+    "crops_covered": [
+      "cotton",
+      "maize",
+      "groundnut",
+      "dry_chillies",
+      "turmeric",
+      "paddy",
+      "red_gram"
+    ],
+    "markets_covered": [
+      "Kesamudram APMC",
+      "Mulugu APMC",
+      "Nekkonda APMC",
+      "Station Ghanpur",
+      "Warangal APMC",
+      "Wardhannapet APMC",
+      "Narsampet APMC",
+      "Parkal APMC",
+      "Jangaon APMC",
+      "Mahabubabad APMC",
+      "Thorrur APMC",
+      "Cherial APMC",
+      "Kamalapur APMC"
+    ]
+  },
+  "trade_integration": {
+    "total_fiscal_year_records": 25,
+    "fiscal_years": [
+      "2021 - 2022",
+      "2022 - 2023",
+      "2023 - 2024",
+      "2024 - 2025",
+      "2025 - 2026"
+    ],
+    "crops": [
+      "cotton",
+      "dry_chillies",
+      "groundnut",
+      "maize",
+      "paddy",
+      "turmeric"
+    ],
+    "scope": "NATIONAL_INDIA",
+    "temporal_rule": "Trade features aligned via lagged financial year to prevent data leakage"
+  }
+}

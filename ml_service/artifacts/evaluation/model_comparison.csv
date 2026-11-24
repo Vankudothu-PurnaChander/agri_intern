@@ -1,0 +1,36 @@
+Crop,Crop_ID,Horizon_Days,Model,MAE (₹/Qtl),RMSE (₹/Qtl),MAPE (%),sMAPE (%),R²,Directional Accuracy (%),Is_Selected_Best
+Cotton,cotton,7,Last Observed Baseline,380.76,488.88,4.53,4.5,0.3018,15.12,False
+Cotton,cotton,7,7-Day Moving Average Baseline,442.37,522.03,5.25,5.21,0.2039,38.37,False
+Cotton,cotton,7,Seasonal Naive Baseline,373.36,500.75,4.44,4.35,0.2675,56.98,False
+Cotton,cotton,7,Random Forest Regressor,603.17,727.05,7.29,6.93,-0.5443,38.37,False
+Cotton,cotton,7,XGBoost Regressor,532.58,638.14,6.45,6.17,-0.1897,38.37,True
+Dry Chillies,dry_chillies,7,Last Observed Baseline,2356.12,3605.45,13.62,12.82,-0.0792,1.06,False
+Dry Chillies,dry_chillies,7,7-Day Moving Average Baseline,2166.54,2798.11,12.47,12.14,0.35,60.64,False
+Dry Chillies,dry_chillies,7,Seasonal Naive Baseline,4471.7,5444.0,26.15,25.1,-1.4604,37.23,False
+Dry Chillies,dry_chillies,7,Random Forest Regressor,2248.76,2877.06,12.78,12.59,0.3128,62.23,False
+Dry Chillies,dry_chillies,7,XGBoost Regressor,2232.83,2829.42,12.48,12.5,0.3354,60.11,True
+Maize,maize,7,Last Observed Baseline,219.1,446.71,9.43,9.24,0.0277,0.0,False
+Maize,maize,7,7-Day Moving Average Baseline,218.74,394.53,9.29,9.53,0.2416,53.78,False
+Maize,maize,7,Seasonal Naive Baseline,283.96,518.65,12.29,12.35,-0.3107,55.46,False
+Maize,maize,7,Random Forest Regressor,248.9,396.93,10.39,10.88,0.2323,57.98,True
+Maize,maize,7,XGBoost Regressor,266.28,397.87,11.19,11.68,0.2287,60.92,False
+Turmeric,turmeric,7,Last Observed Baseline,1204.83,1684.85,12.85,11.66,0.6238,0.0,False
+Turmeric,turmeric,7,7-Day Moving Average Baseline,1170.55,1586.68,12.09,11.06,0.6664,52.83,False
+Turmeric,turmeric,7,Seasonal Naive Baseline,1653.06,2116.58,16.06,15.51,0.4063,44.65,False
+Turmeric,turmeric,7,Random Forest Regressor,2153.2,2731.51,19.45,20.44,0.0112,55.35,True
+Turmeric,turmeric,7,XGBoost Regressor,2226.2,2751.48,19.69,20.31,-0.0033,54.72,False
+Groundnut,groundnut,7,Last Observed Baseline,1432.94,2169.33,19.07,19.48,-0.3891,1.1,False
+Groundnut,groundnut,7,7-Day Moving Average Baseline,1396.25,2089.91,18.65,19.09,-0.2892,51.38,False
+Groundnut,groundnut,7,Seasonal Naive Baseline,1798.94,2529.62,23.32,25.84,-0.8888,45.86,False
+Groundnut,groundnut,7,Random Forest Regressor,1263.52,1827.27,16.54,17.58,0.0145,59.12,True
+Groundnut,groundnut,7,XGBoost Regressor,1564.81,2154.94,19.82,22.18,-0.3707,57.46,False
+Paddy,paddy,7,Last Observed Baseline,62.7,121.39,2.35,2.44,0.1353,35.14,False
+Paddy,paddy,7,7-Day Moving Average Baseline,69.42,123.44,2.62,2.72,0.1058,35.14,False
+Paddy,paddy,7,Seasonal Naive Baseline,77.08,137.6,2.9,3.03,-0.1111,40.54,False
+Paddy,paddy,7,Random Forest Regressor,188.09,235.9,7.36,7.54,-2.2656,40.54,False
+Paddy,paddy,7,XGBoost Regressor,81.63,137.59,3.09,3.21,-0.111,40.54,True
+Red Gram,red_gram,7,Last Observed Baseline,363.89,483.88,5.41,5.15,-2.7896,0.0,False
+Red Gram,red_gram,7,7-Day Moving Average Baseline,322.14,411.54,4.78,4.59,-1.7412,88.89,False
+Red Gram,red_gram,7,Seasonal Naive Baseline,662.44,721.46,9.61,9.09,-7.4243,33.33,False
+Red Gram,red_gram,7,Random Forest Regressor,451.13,513.24,6.62,6.34,-3.2633,22.22,False
+Red Gram,red_gram,7,XGBoost Regressor,327.72,410.18,4.85,4.67,-1.7231,44.44,True

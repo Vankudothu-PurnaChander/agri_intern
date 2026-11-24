@@ -1,0 +1,1374 @@
+{
+  "cotton_7d": {
+    "crop_id": "cotton",
+    "crop_name": "Cotton",
+    "horizon_days": 7,
+    "training_date": "2026-11-04",
+    "data_range": {
+      "min": "2021-12-01",
+      "max": "2026-10-24"
+    },
+    "models": {
+      "last_observed": {
+        "mae": 380.76,
+        "rmse": 488.88,
+        "mape": 4.53,
+        "smape": 4.5,
+        "r2": 0.3018,
+        "directional_accuracy": 15.12,
+        "sample_count": 86,
+        "model_name": "Last Observed Baseline"
+      },
+      "moving_average_7d": {
+        "mae": 442.37,
+        "rmse": 522.03,
+        "mape": 5.25,
+        "smape": 5.21,
+        "r2": 0.2039,
+        "directional_accuracy": 38.37,
+        "sample_count": 86,
+        "model_name": "7-Day Moving Average Baseline"
+      },
+      "seasonal_naive": {
+        "mae": 373.36,
+        "rmse": 500.75,
+        "mape": 4.44,
+        "smape": 4.35,
+        "r2": 0.2675,
+        "directional_accuracy": 56.98,
+        "sample_count": 86,
+        "model_name": "Seasonal Naive Baseline"
+      },
+      "random_forest": {
+        "mae": 603.17,
+        "rmse": 727.05,
+        "mape": 7.29,
+        "smape": 6.93,
+        "r2": -0.5443,
+        "directional_accuracy": 38.37,
+        "sample_count": 86,
+        "val_mae": 374.96,
+        "model_name": "Random Forest Regressor",
+        "top_features": {
+          "price_rolling_mean_7": 0.3048,
+          "price_lag_1": 0.1113,
+          "price_rolling_mean_15": 0.111,
+          "price_rolling_median_7": 0.108,
+          "price_lag_3": 0.1025
+        }
+      },
+      "xgboost": {
+        "mae": 532.58,
+        "rmse": 638.14,
+        "mape": 6.45,
+        "smape": 6.17,
+        "r2": -0.1897,
+        "directional_accuracy": 38.37,
+        "sample_count": 86,
+        "val_mae": 294.42,
+        "model_name": "XGBoost Regressor",
+        "top_features": {
+          "price_lag_2": 0.3657,
+          "price_rolling_mean_7": 0.2591,
+          "price_rolling_median_7": 0.1344,
+          "price_lag_1": 0.078,
+          "price_lag_3": 0.0576
+        }
+      }
+    },
+    "best_model_name": "xgboost",
+    "baseline_outperformed": false,
+    "selected_model_metrics": {
+      "mae": 532.58,
+      "rmse": 638.14,
+      "mape": 6.45,
+      "smape": 6.17,
+      "r2": -0.1897,
+      "directional_accuracy": 38.37,
+      "sample_count": 86,
+      "val_mae": 294.42,
+      "model_name": "XGBoost Regressor",
+      "top_features": {
+        "price_lag_2": 0.3657,
+        "price_rolling_mean_7": 0.2591,
+        "price_rolling_median_7": 0.1344,
+        "price_lag_1": 0.078,
+        "price_lag_3": 0.0576
+      }
+    }
+  },
+  "cotton": {
+    "crop_id": "cotton",
+    "crop_name": "Cotton",
+    "horizon_days": 7,
+    "training_date": "2026-11-04",
+    "data_range": {
+      "min": "2021-12-01",
+      "max": "2026-10-24"
+    },
+    "models": {
+      "last_observed": {
+        "mae": 380.76,
+        "rmse": 488.88,
+        "mape": 4.53,
+        "smape": 4.5,
+        "r2": 0.3018,
+        "directional_accuracy": 15.12,
+        "sample_count": 86,
+        "model_name": "Last Observed Baseline"
+      },
+      "moving_average_7d": {
+        "mae": 442.37,
+        "rmse": 522.03,
+        "mape": 5.25,
+        "smape": 5.21,
+        "r2": 0.2039,
+        "directional_accuracy": 38.37,
+        "sample_count": 86,
+        "model_name": "7-Day Moving Average Baseline"
+      },
+      "seasonal_naive": {
+        "mae": 373.36,
+        "rmse": 500.75,
+        "mape": 4.44,
+        "smape": 4.35,
+        "r2": 0.2675,
+        "directional_accuracy": 56.98,
+        "sample_count": 86,
+        "model_name": "Seasonal Naive Baseline"
+      },
+      "random_forest": {
+        "mae": 603.17,
+        "rmse": 727.05,
+        "mape": 7.29,
+        "smape": 6.93,
+        "r2": -0.5443,
+        "directional_accuracy": 38.37,
+        "sample_count": 86,
+        "val_mae": 374.96,
+        "model_name": "Random Forest Regressor",
+        "top_features": {
+          "price_rolling_mean_7": 0.3048,
+          "price_lag_1": 0.1113,
+          "price_rolling_mean_15": 0.111,
+          "price_rolling_median_7": 0.108,
+          "price_lag_3": 0.1025
+        }
+      },
+      "xgboost": {
+        "mae": 532.58,
+        "rmse": 638.14,
+        "mape": 6.45,
+        "smape": 6.17,
+        "r2": -0.1897,
+        "directional_accuracy": 38.37,
+        "sample_count": 86,
+        "val_mae": 294.42,
+        "model_name": "XGBoost Regressor",
+        "top_features": {
+          "price_lag_2": 0.3657,
+          "price_rolling_mean_7": 0.2591,
+          "price_rolling_median_7": 0.1344,
+          "price_lag_1": 0.078,
+          "price_lag_3": 0.0576
+        }
+      }
+    },
+    "best_model_name": "xgboost",
+    "baseline_outperformed": false,
+    "selected_model_metrics": {
+      "mae": 532.58,
+      "rmse": 638.14,
+      "mape": 6.45,
+      "smape": 6.17,
+      "r2": -0.1897,
+      "directional_accuracy": 38.37,
+      "sample_count": 86,
+      "val_mae": 294.42,
+      "model_name": "XGBoost Regressor",
+      "top_features": {
+        "price_lag_2": 0.3657,
+        "price_rolling_mean_7": 0.2591,
+        "price_rolling_median_7": 0.1344,
+        "price_lag_1": 0.078,
+        "price_lag_3": 0.0576
+      }
+    }
+  },
+  "dry_chillies_7d": {
+    "crop_id": "dry_chillies",
+    "crop_name": "Dry Chillies",
+    "horizon_days": 7,
+    "training_date": "2026-11-04",
+    "data_range": {
+      "min": "2022-02-02",
+      "max": "2026-10-23"
+    },
+    "models": {
+      "last_observed": {
+        "mae": 2356.12,
+        "rmse": 3605.45,
+        "mape": 13.62,
+        "smape": 12.82,
+        "r2": -0.0792,
+        "directional_accuracy": 1.06,
+        "sample_count": 188,
+        "model_name": "Last Observed Baseline"
+      },
+      "moving_average_7d": {
+        "mae": 2166.54,
+        "rmse": 2798.11,
+        "mape": 12.47,
+        "smape": 12.14,
+        "r2": 0.35,
+        "directional_accuracy": 60.64,
+        "sample_count": 188,
+        "model_name": "7-Day Moving Average Baseline"
+      },
+      "seasonal_naive": {
+        "mae": 4471.7,
+        "rmse": 5444.0,
+        "mape": 26.15,
+        "smape": 25.1,
+        "r2": -1.4604,
+        "directional_accuracy": 37.23,
+        "sample_count": 188,
+        "model_name": "Seasonal Naive Baseline"
+      },
+      "random_forest": {
+        "mae": 2248.76,
+        "rmse": 2877.06,
+        "mape": 12.78,
+        "smape": 12.59,
+        "r2": 0.3128,
+        "directional_accuracy": 62.23,
+        "sample_count": 188,
+        "val_mae": 3106.28,
+        "model_name": "Random Forest Regressor",
+        "top_features": {
+          "price_rolling_mean_15": 0.5744,
+          "price_rolling_median_15": 0.0792,
+          "year": 0.0604,
+          "price_rolling_mean_7": 0.0378,
+          "price_rolling_std_15": 0.03
+        }
+      },
+      "xgboost": {
+        "mae": 2232.83,
+        "rmse": 2829.42,
+        "mape": 12.48,
+        "smape": 12.5,
+        "r2": 0.3354,
+        "directional_accuracy": 60.11,
+        "sample_count": 188,
+        "val_mae": 2981.83,
+        "model_name": "XGBoost Regressor",
+        "top_features": {
+          "price_rolling_mean_15": 0.3899,
+          "price_rolling_median_15": 0.1222,
+          "price_rolling_mean_7": 0.0934,
+          "year": 0.0767,
+          "month": 0.0316
+        }
+      }
+    },
+    "best_model_name": "xgboost",
+    "baseline_outperformed": true,
+    "selected_model_metrics": {
+      "mae": 2232.83,
+      "rmse": 2829.42,
+      "mape": 12.48,
+      "smape": 12.5,
+      "r2": 0.3354,
+      "directional_accuracy": 60.11,
+      "sample_count": 188,
+      "val_mae": 2981.83,
+      "model_name": "XGBoost Regressor",
+      "top_features": {
+        "price_rolling_mean_15": 0.3899,
+        "price_rolling_median_15": 0.1222,
+        "price_rolling_mean_7": 0.0934,
+        "year": 0.0767,
+        "month": 0.0316
+      }
+    }
+  },
+  "dry_chillies": {
+    "crop_id": "dry_chillies",
+    "crop_name": "Dry Chillies",
+    "horizon_days": 7,
+    "training_date": "2026-11-04",
+    "data_range": {
+      "min": "2022-02-02",
+      "max": "2026-10-23"
+    },
+    "models": {
+      "last_observed": {
+        "mae": 2356.12,
+        "rmse": 3605.45,
+        "mape": 13.62,
+        "smape": 12.82,
+        "r2": -0.0792,
+        "directional_accuracy": 1.06,
+        "sample_count": 188,
+        "model_name": "Last Observed Baseline"
+      },
+      "moving_average_7d": {
+        "mae": 2166.54,
+        "rmse": 2798.11,
+        "mape": 12.47,
+        "smape": 12.14,
+        "r2": 0.35,
+        "directional_accuracy": 60.64,
+        "sample_count": 188,
+        "model_name": "7-Day Moving Average Baseline"
+      },
+      "seasonal_naive": {
+        "mae": 4471.7,
+        "rmse": 5444.0,
+        "mape": 26.15,
+        "smape": 25.1,
+        "r2": -1.4604,
+        "directional_accuracy": 37.23,
+        "sample_count": 188,
+        "model_name": "Seasonal Naive Baseline"
+      },
+      "random_forest": {
+        "mae": 2248.76,
+        "rmse": 2877.06,
+        "mape": 12.78,
+        "smape": 12.59,
+        "r2": 0.3128,
+        "directional_accuracy": 62.23,
+        "sample_count": 188,
+        "val_mae": 3106.28,
+        "model_name": "Random Forest Regressor",
+        "top_features": {
+          "price_rolling_mean_15": 0.5744,
+          "price_rolling_median_15": 0.0792,
+          "year": 0.0604,
+          "price_rolling_mean_7": 0.0378,
+          "price_rolling_std_15": 0.03
+        }
+      },
+      "xgboost": {
+        "mae": 2232.83,
+        "rmse": 2829.42,
+        "mape": 12.48,
+        "smape": 12.5,
+        "r2": 0.3354,
+        "directional_accuracy": 60.11,
+        "sample_count": 188,
+        "val_mae": 2981.83,
+        "model_name": "XGBoost Regressor",
+        "top_features": {
+          "price_rolling_mean_15": 0.3899,
+          "price_rolling_median_15": 0.1222,
+          "price_rolling_mean_7": 0.0934,
+          "year": 0.0767,
+          "month": 0.0316
+        }
+      }
+    },
+    "best_model_name": "xgboost",
+    "baseline_outperformed": true,
+    "selected_model_metrics": {
+      "mae": 2232.83,
+      "rmse": 2829.42,
+      "mape": 12.48,
+      "smape": 12.5,
+      "r2": 0.3354,
+      "directional_accuracy": 60.11,
+      "sample_count": 188,
+      "val_mae": 2981.83,
+      "model_name": "XGBoost Regressor",
+      "top_features": {
+        "price_rolling_mean_15": 0.3899,
+        "price_rolling_median_15": 0.1222,
+        "price_rolling_mean_7": 0.0934,
+        "year": 0.0767,
+        "month": 0.0316
+      }
+    }
+  },
+  "maize_7d": {
+    "crop_id": "maize",
+    "crop_name": "Maize",
+    "horizon_days": 7,
+    "training_date": "2026-11-04",
+    "data_range": {
+      "min": "2022-01-10",
+      "max": "2026-10-25"
+    },
+    "models": {
+      "last_observed": {
+        "mae": 219.1,
+        "rmse": 446.71,
+        "mape": 9.43,
+        "smape": 9.24,
+        "r2": 0.0277,
+        "directional_accuracy": 0.0,
+        "sample_count": 238,
+        "model_name": "Last Observed Baseline"
+      },
+      "moving_average_7d": {
+        "mae": 218.74,
+        "rmse": 394.53,
+        "mape": 9.29,
+        "smape": 9.53,
+        "r2": 0.2416,
+        "directional_accuracy": 53.78,
+        "sample_count": 238,
+        "model_name": "7-Day Moving Average Baseline"
+      },
+      "seasonal_naive": {
+        "mae": 283.96,
+        "rmse": 518.65,
+        "mape": 12.29,
+        "smape": 12.35,
+        "r2": -0.3107,
+        "directional_accuracy": 55.46,
+        "sample_count": 238,
+        "model_name": "Seasonal Naive Baseline"
+      },
+      "random_forest": {
+        "mae": 248.9,
+        "rmse": 396.93,
+        "mape": 10.39,
+        "smape": 10.88,
+        "r2": 0.2323,
+        "directional_accuracy": 57.98,
+        "sample_count": 238,
+        "val_mae": 155.72,
+        "model_name": "Random Forest Regressor",
+        "top_features": {
+          "price_rolling_mean_7": 0.2732,
+          "price_rolling_mean_15": 0.1211,
+          "price_rolling_median_7": 0.0869,
+          "price_rolling_mean_30": 0.0747,
+          "price_rolling_median_15": 0.0722
+        }
+      },
+      "xgboost": {
+        "mae": 266.28,
+        "rmse": 397.87,
+        "mape": 11.19,
+        "smape": 11.68,
+        "r2": 0.2287,
+        "directional_accuracy": 60.92,
+        "sample_count": 238,
+        "val_mae": 151.9,
+        "model_name": "XGBoost Regressor",
+        "top_features": {
+          "price_rolling_mean_7": 0.1937,
+          "price_rolling_median_7": 0.1276,
+          "price_rolling_median_15": 0.1249,
+          "price_rolling_mean_30": 0.1165,
+          "price_rolling_mean_15": 0.0911
+        }
+      }
+    },
+    "best_model_name": "random_forest",
+    "baseline_outperformed": true,
+    "selected_model_metrics": {
+      "mae": 248.9,
+      "rmse": 396.93,
+      "mape": 10.39,
+      "smape": 10.88,
+      "r2": 0.2323,
+      "directional_accuracy": 57.98,
+      "sample_count": 238,
+      "val_mae": 155.72,
+      "model_name": "Random Forest Regressor",
+      "top_features": {
+        "price_rolling_mean_7": 0.2732,
+        "price_rolling_mean_15": 0.1211,
+        "price_rolling_median_7": 0.0869,
+        "price_rolling_mean_30": 0.0747,
+        "price_rolling_median_15": 0.0722
+      }
+    }
+  },
+  "maize": {
+    "crop_id": "maize",
+    "crop_name": "Maize",
+    "horizon_days": 7,
+    "training_date": "2026-11-04",
+    "data_range": {
+      "min": "2022-01-10",
+      "max": "2026-10-25"
+    },
+    "models": {
+      "last_observed": {
+        "mae": 219.1,
+        "rmse": 446.71,
+        "mape": 9.43,
+        "smape": 9.24,
+        "r2": 0.0277,
+        "directional_accuracy": 0.0,
+        "sample_count": 238,
+        "model_name": "Last Observed Baseline"
+      },
+      "moving_average_7d": {
+        "mae": 218.74,
+        "rmse": 394.53,
+        "mape": 9.29,
+        "smape": 9.53,
+        "r2": 0.2416,
+        "directional_accuracy": 53.78,
+        "sample_count": 238,
+        "model_name": "7-Day Moving Average Baseline"
+      },
+      "seasonal_naive": {
+        "mae": 283.96,
+        "rmse": 518.65,
+        "mape": 12.29,
+        "smape": 12.35,
+        "r2": -0.3107,
+        "directional_accuracy": 55.46,
+        "sample_count": 238,
+        "model_name": "Seasonal Naive Baseline"
+      },
+      "random_forest": {
+        "mae": 248.9,
+        "rmse": 396.93,
+        "mape": 10.39,
+        "smape": 10.88,
+        "r2": 0.2323,
+        "directional_accuracy": 57.98,
+        "sample_count": 238,
+        "val_mae": 155.72,
+        "model_name": "Random Forest Regressor",
+        "top_features": {
+          "price_rolling_mean_7": 0.2732,
+          "price_rolling_mean_15": 0.1211,
+          "price_rolling_median_7": 0.0869,
+          "price_rolling_mean_30": 0.0747,
+          "price_rolling_median_15": 0.0722
+        }
+      },
+      "xgboost": {
+        "mae": 266.28,
+        "rmse": 397.87,
+        "mape": 11.19,
+        "smape": 11.68,
+        "r2": 0.2287,
+        "directional_accuracy": 60.92,
+        "sample_count": 238,
+        "val_mae": 151.9,
+        "model_name": "XGBoost Regressor",
+        "top_features": {
+          "price_rolling_mean_7": 0.1937,
+          "price_rolling_median_7": 0.1276,
+          "price_rolling_median_15": 0.1249,
+          "price_rolling_mean_30": 0.1165,
+          "price_rolling_mean_15": 0.0911
+        }
+      }
+    },
+    "best_model_name": "random_forest",
+    "baseline_outperformed": true,
+    "selected_model_metrics": {
+      "mae": 248.9,
+      "rmse": 396.93,
+      "mape": 10.39,
+      "smape": 10.88,
+      "r2": 0.2323,
+      "directional_accuracy": 57.98,
+      "sample_count": 238,
+      "val_mae": 155.72,
+      "model_name": "Random Forest Regressor",
+      "top_features": {
+        "price_rolling_mean_7": 0.2732,
+        "price_rolling_mean_15": 0.1211,
+        "price_rolling_median_7": 0.0869,
+        "price_rolling_mean_30": 0.0747,
+        "price_rolling_median_15": 0.0722
+      }
+    }
+  },
+  "turmeric_7d": {
+    "crop_id": "turmeric",
+    "crop_name": "Turmeric",
+    "horizon_days": 7,
+    "training_date": "2026-11-04",
+    "data_range": {
+      "min": "2022-02-02",
+      "max": "2026-10-22"
+    },
+    "models": {
+      "last_observed": {
+        "mae": 1204.83,
+        "rmse": 1684.85,
+        "mape": 12.85,
+        "smape": 11.66,
+        "r2": 0.6238,
+        "directional_accuracy": 0.0,
+        "sample_count": 159,
+        "model_name": "Last Observed Baseline"
+      },
+      "moving_average_7d": {
+        "mae": 1170.55,
+        "rmse": 1586.68,
+        "mape": 12.09,
+        "smape": 11.06,
+        "r2": 0.6664,
+        "directional_accuracy": 52.83,
+        "sample_count": 159,
+        "model_name": "7-Day Moving Average Baseline"
+      },
+      "seasonal_naive": {
+        "mae": 1653.06,
+        "rmse": 2116.58,
+        "mape": 16.06,
+        "smape": 15.51,
+        "r2": 0.4063,
+        "directional_accuracy": 44.65,
+        "sample_count": 159,
+        "model_name": "Seasonal Naive Baseline"
+      },
+      "random_forest": {
+        "mae": 2153.2,
+        "rmse": 2731.51,
+        "mape": 19.45,
+        "smape": 20.44,
+        "r2": 0.0112,
+        "directional_accuracy": 55.35,
+        "sample_count": 159,
+        "val_mae": 1273.02,
+        "model_name": "Random Forest Regressor",
+        "top_features": {
+          "price_lag_1": 0.2849,
+          "price_rolling_mean_7": 0.2632,
+          "price_rolling_median_7": 0.2446,
+          "price_rolling_mean_30": 0.0676,
+          "price_lag_7": 0.0256
+        }
+      },
+      "xgboost": {
+        "mae": 2226.2,
+        "rmse": 2751.48,
+        "mape": 19.69,
+        "smape": 20.31,
+        "r2": -0.0033,
+        "directional_accuracy": 54.72,
+        "sample_count": 159,
+        "val_mae": 1046.73,
+        "model_name": "XGBoost Regressor",
+        "top_features": {
+          "price_rolling_median_7": 0.4284,
+          "price_lag_1": 0.2056,
+          "price_rolling_mean_7": 0.1495,
+          "price_rolling_median_15": 0.0493,
+          "price_rolling_mean_30": 0.0454
+        }
+      }
+    },
+    "best_model_name": "random_forest",
+    "baseline_outperformed": false,
+    "selected_model_metrics": {
+      "mae": 2153.2,
+      "rmse": 2731.51,
+      "mape": 19.45,
+      "smape": 20.44,
+      "r2": 0.0112,
+      "directional_accuracy": 55.35,
+      "sample_count": 159,
+      "val_mae": 1273.02,
+      "model_name": "Random Forest Regressor",
+      "top_features": {
+        "price_lag_1": 0.2849,
+        "price_rolling_mean_7": 0.2632,
+        "price_rolling_median_7": 0.2446,
+        "price_rolling_mean_30": 0.0676,
+        "price_lag_7": 0.0256
+      }
+    }
+  },
+  "turmeric": {
+    "crop_id": "turmeric",
+    "crop_name": "Turmeric",
+    "horizon_days": 7,
+    "training_date": "2026-11-04",
+    "data_range": {
+      "min": "2022-02-02",
+      "max": "2026-10-22"
+    },
+    "models": {
+      "last_observed": {
+        "mae": 1204.83,
+        "rmse": 1684.85,
+        "mape": 12.85,
+        "smape": 11.66,
+        "r2": 0.6238,
+        "directional_accuracy": 0.0,
+        "sample_count": 159,
+        "model_name": "Last Observed Baseline"
+      },
+      "moving_average_7d": {
+        "mae": 1170.55,
+        "rmse": 1586.68,
+        "mape": 12.09,
+        "smape": 11.06,
+        "r2": 0.6664,
+        "directional_accuracy": 52.83,
+        "sample_count": 159,
+        "model_name": "7-Day Moving Average Baseline"
+      },
+      "seasonal_naive": {
+        "mae": 1653.06,
+        "rmse": 2116.58,
+        "mape": 16.06,
+        "smape": 15.51,
+        "r2": 0.4063,
+        "directional_accuracy": 44.65,
+        "sample_count": 159,
+        "model_name": "Seasonal Naive Baseline"
+      },
+      "random_forest": {
+        "mae": 2153.2,
+        "rmse": 2731.51,
+        "mape": 19.45,
+        "smape": 20.44,
+        "r2": 0.0112,
+        "directional_accuracy": 55.35,
+        "sample_count": 159,
+        "val_mae": 1273.02,
+        "model_name": "Random Forest Regressor",
+        "top_features": {
+          "price_lag_1": 0.2849,
+          "price_rolling_mean_7": 0.2632,
+          "price_rolling_median_7": 0.2446,
+          "price_rolling_mean_30": 0.0676,
+          "price_lag_7": 0.0256
+        }
+      },
+      "xgboost": {
+        "mae": 2226.2,
+        "rmse": 2751.48,
+        "mape": 19.69,
+        "smape": 20.31,
+        "r2": -0.0033,
+        "directional_accuracy": 54.72,
+        "sample_count": 159,
+        "val_mae": 1046.73,
+        "model_name": "XGBoost Regressor",
+        "top_features": {
+          "price_rolling_median_7": 0.4284,
+          "price_lag_1": 0.2056,
+          "price_rolling_mean_7": 0.1495,
+          "price_rolling_median_15": 0.0493,
+          "price_rolling_mean_30": 0.0454
+        }
+      }
+    },
+    "best_model_name": "random_forest",
+    "baseline_outperformed": false,
+    "selected_model_metrics": {
+      "mae": 2153.2,
+      "rmse": 2731.51,
+      "mape": 19.45,
+      "smape": 20.44,
+      "r2": 0.0112,
+      "directional_accuracy": 55.35,
+      "sample_count": 159,
+      "val_mae": 1273.02,
+      "model_name": "Random Forest Regressor",
+      "top_features": {
+        "price_lag_1": 0.2849,
+        "price_rolling_mean_7": 0.2632,
+        "price_rolling_median_7": 0.2446,
+        "price_rolling_mean_30": 0.0676,
+        "price_lag_7": 0.0256
+      }
+    }
+  },
+  "groundnut_7d": {
+    "crop_id": "groundnut",
+    "crop_name": "Groundnut",
+    "horizon_days": 7,
+    "training_date": "2026-11-04",
+    "data_range": {
+      "min": "2022-01-05",
+      "max": "2026-10-23"
+    },
+    "models": {
+      "last_observed": {
+        "mae": 1432.94,
+        "rmse": 2169.33,
+        "mape": 19.07,
+        "smape": 19.48,
+        "r2": -0.3891,
+        "directional_accuracy": 1.1,
+        "sample_count": 181,
+        "model_name": "Last Observed Baseline"
+      },
+      "moving_average_7d": {
+        "mae": 1396.25,
+        "rmse": 2089.91,
+        "mape": 18.65,
+        "smape": 19.09,
+        "r2": -0.2892,
+        "directional_accuracy": 51.38,
+        "sample_count": 181,
+        "model_name": "7-Day Moving Average Baseline"
+      },
+      "seasonal_naive": {
+        "mae": 1798.94,
+        "rmse": 2529.62,
+        "mape": 23.32,
+        "smape": 25.84,
+        "r2": -0.8888,
+        "directional_accuracy": 45.86,
+        "sample_count": 181,
+        "model_name": "Seasonal Naive Baseline"
+      },
+      "random_forest": {
+        "mae": 1263.52,
+        "rmse": 1827.27,
+        "mape": 16.54,
+        "smape": 17.58,
+        "r2": 0.0145,
+        "directional_accuracy": 59.12,
+        "sample_count": 181,
+        "val_mae": 901.39,
+        "model_name": "Random Forest Regressor",
+        "top_features": {
+          "price_rolling_median_7": 0.2207,
+          "price_rolling_median_15": 0.089,
+          "price_rolling_mean_7": 0.0829,
+          "price_rolling_mean_30": 0.0798,
+          "price_lag_1": 0.0772
+        }
+      },
+      "xgboost": {
+        "mae": 1564.81,
+        "rmse": 2154.94,
+        "mape": 19.82,
+        "smape": 22.18,
+        "r2": -0.3707,
+        "directional_accuracy": 57.46,
+        "sample_count": 181,
+        "val_mae": 886.39,
+        "model_name": "XGBoost Regressor",
+        "top_features": {
+          "price_rolling_median_7": 0.242,
+          "price_rolling_mean_7": 0.1303,
+          "price_rolling_median_15": 0.0638,
+          "year": 0.0573,
+          "price_rolling_mean_30": 0.048
+        }
+      }
+    },
+    "best_model_name": "random_forest",
+    "baseline_outperformed": true,
+    "selected_model_metrics": {
+      "mae": 1263.52,
+      "rmse": 1827.27,
+      "mape": 16.54,
+      "smape": 17.58,
+      "r2": 0.0145,
+      "directional_accuracy": 59.12,
+      "sample_count": 181,
+      "val_mae": 901.39,
+      "model_name": "Random Forest Regressor",
+      "top_features": {
+        "price_rolling_median_7": 0.2207,
+        "price_rolling_median_15": 0.089,
+        "price_rolling_mean_7": 0.0829,
+        "price_rolling_mean_30": 0.0798,
+        "price_lag_1": 0.0772
+      }
+    }
+  },
+  "groundnut": {
+    "crop_id": "groundnut",
+    "crop_name": "Groundnut",
+    "horizon_days": 7,
+    "training_date": "2026-11-04",
+    "data_range": {
+      "min": "2022-01-05",
+      "max": "2026-10-23"
+    },
+    "models": {
+      "last_observed": {
+        "mae": 1432.94,
+        "rmse": 2169.33,
+        "mape": 19.07,
+        "smape": 19.48,
+        "r2": -0.3891,
+        "directional_accuracy": 1.1,
+        "sample_count": 181,
+        "model_name": "Last Observed Baseline"
+      },
+      "moving_average_7d": {
+        "mae": 1396.25,
+        "rmse": 2089.91,
+        "mape": 18.65,
+        "smape": 19.09,
+        "r2": -0.2892,
+        "directional_accuracy": 51.38,
+        "sample_count": 181,
+        "model_name": "7-Day Moving Average Baseline"
+      },
+      "seasonal_naive": {
+        "mae": 1798.94,
+        "rmse": 2529.62,
+        "mape": 23.32,
+        "smape": 25.84,
+        "r2": -0.8888,
+        "directional_accuracy": 45.86,
+        "sample_count": 181,
+        "model_name": "Seasonal Naive Baseline"
+      },
+      "random_forest": {
+        "mae": 1263.52,
+        "rmse": 1827.27,
+        "mape": 16.54,
+        "smape": 17.58,
+        "r2": 0.0145,
+        "directional_accuracy": 59.12,
+        "sample_count": 181,
+        "val_mae": 901.39,
+        "model_name": "Random Forest Regressor",
+        "top_features": {
+          "price_rolling_median_7": 0.2207,
+          "price_rolling_median_15": 0.089,
+          "price_rolling_mean_7": 0.0829,
+          "price_rolling_mean_30": 0.0798,
+          "price_lag_1": 0.0772
+        }
+      },
+      "xgboost": {
+        "mae": 1564.81,
+        "rmse": 2154.94,
+        "mape": 19.82,
+        "smape": 22.18,
+        "r2": -0.3707,
+        "directional_accuracy": 57.46,
+        "sample_count": 181,
+        "val_mae": 886.39,
+        "model_name": "XGBoost Regressor",
+        "top_features": {
+          "price_rolling_median_7": 0.242,
+          "price_rolling_mean_7": 0.1303,
+          "price_rolling_median_15": 0.0638,
+          "year": 0.0573,
+          "price_rolling_mean_30": 0.048
+        }
+      }
+    },
+    "best_model_name": "random_forest",
+    "baseline_outperformed": true,
+    "selected_model_metrics": {
+      "mae": 1263.52,
+      "rmse": 1827.27,
+      "mape": 16.54,
+      "smape": 17.58,
+      "r2": 0.0145,
+      "directional_accuracy": 59.12,
+      "sample_count": 181,
+      "val_mae": 901.39,
+      "model_name": "Random Forest Regressor",
+      "top_features": {
+        "price_rolling_median_7": 0.2207,
+        "price_rolling_median_15": 0.089,
+        "price_rolling_mean_7": 0.0829,
+        "price_rolling_mean_30": 0.0798,
+        "price_lag_1": 0.0772
+      }
+    }
+  },
+  "paddy_7d": {
+    "crop_id": "paddy",
+    "crop_name": "Paddy",
+    "horizon_days": 7,
+    "training_date": "2026-11-04",
+    "data_range": {
+      "min": "2025-12-03",
+      "max": "2026-10-22"
+    },
+    "models": {
+      "last_observed": {
+        "mae": 62.7,
+        "rmse": 121.39,
+        "mape": 2.35,
+        "smape": 2.44,
+        "r2": 0.1353,
+        "directional_accuracy": 35.14,
+        "sample_count": 37,
+        "model_name": "Last Observed Baseline"
+      },
+      "moving_average_7d": {
+        "mae": 69.42,
+        "rmse": 123.44,
+        "mape": 2.62,
+        "smape": 2.72,
+        "r2": 0.1058,
+        "directional_accuracy": 35.14,
+        "sample_count": 37,
+        "model_name": "7-Day Moving Average Baseline"
+      },
+      "seasonal_naive": {
+        "mae": 77.08,
+        "rmse": 137.6,
+        "mape": 2.9,
+        "smape": 3.03,
+        "r2": -0.1111,
+        "directional_accuracy": 40.54,
+        "sample_count": 37,
+        "model_name": "Seasonal Naive Baseline"
+      },
+      "random_forest": {
+        "mae": 188.09,
+        "rmse": 235.9,
+        "mape": 7.36,
+        "smape": 7.54,
+        "r2": -2.2656,
+        "directional_accuracy": 40.54,
+        "sample_count": 37,
+        "val_mae": 154.1,
+        "model_name": "Random Forest Regressor",
+        "top_features": {
+          "season": 0.104,
+          "price_rolling_median_7": 0.0968,
+          "arrival_rolling_mean_30": 0.093,
+          "sin_day": 0.0772,
+          "month": 0.0634
+        }
+      },
+      "xgboost": {
+        "mae": 81.63,
+        "rmse": 137.59,
+        "mape": 3.09,
+        "smape": 3.21,
+        "r2": -0.111,
+        "directional_accuracy": 40.54,
+        "sample_count": 37,
+        "val_mae": 25.87,
+        "model_name": "XGBoost Regressor",
+        "top_features": {
+          "arrival_rolling_mean_30": 0.1107,
+          "month": 0.0922,
+          "season": 0.0847,
+          "cos_month": 0.0803,
+          "price_rolling_median_7": 0.0641
+        }
+      }
+    },
+    "best_model_name": "xgboost",
+    "baseline_outperformed": false,
+    "selected_model_metrics": {
+      "mae": 81.63,
+      "rmse": 137.59,
+      "mape": 3.09,
+      "smape": 3.21,
+      "r2": -0.111,
+      "directional_accuracy": 40.54,
+      "sample_count": 37,
+      "val_mae": 25.87,
+      "model_name": "XGBoost Regressor",
+      "top_features": {
+        "arrival_rolling_mean_30": 0.1107,
+        "month": 0.0922,
+        "season": 0.0847,
+        "cos_month": 0.0803,
+        "price_rolling_median_7": 0.0641
+      }
+    }
+  },
+  "paddy": {
+    "crop_id": "paddy",
+    "crop_name": "Paddy",
+    "horizon_days": 7,
+    "training_date": "2026-11-04",
+    "data_range": {
+      "min": "2025-12-03",
+      "max": "2026-10-22"
+    },
+    "models": {
+      "last_observed": {
+        "mae": 62.7,
+        "rmse": 121.39,
+        "mape": 2.35,
+        "smape": 2.44,
+        "r2": 0.1353,
+        "directional_accuracy": 35.14,
+        "sample_count": 37,
+        "model_name": "Last Observed Baseline"
+      },
+      "moving_average_7d": {
+        "mae": 69.42,
+        "rmse": 123.44,
+        "mape": 2.62,
+        "smape": 2.72,
+        "r2": 0.1058,
+        "directional_accuracy": 35.14,
+        "sample_count": 37,
+        "model_name": "7-Day Moving Average Baseline"
+      },
+      "seasonal_naive": {
+        "mae": 77.08,
+        "rmse": 137.6,
+        "mape": 2.9,
+        "smape": 3.03,
+        "r2": -0.1111,
+        "directional_accuracy": 40.54,
+        "sample_count": 37,
+        "model_name": "Seasonal Naive Baseline"
+      },
+      "random_forest": {
+        "mae": 188.09,
+        "rmse": 235.9,
+        "mape": 7.36,
+        "smape": 7.54,
+        "r2": -2.2656,
+        "directional_accuracy": 40.54,
+        "sample_count": 37,
+        "val_mae": 154.1,
+        "model_name": "Random Forest Regressor",
+        "top_features": {
+          "season": 0.104,
+          "price_rolling_median_7": 0.0968,
+          "arrival_rolling_mean_30": 0.093,
+          "sin_day": 0.0772,
+          "month": 0.0634
+        }
+      },
+      "xgboost": {
+        "mae": 81.63,
+        "rmse": 137.59,
+        "mape": 3.09,
+        "smape": 3.21,
+        "r2": -0.111,
+        "directional_accuracy": 40.54,
+        "sample_count": 37,
+        "val_mae": 25.87,
+        "model_name": "XGBoost Regressor",
+        "top_features": {
+          "arrival_rolling_mean_30": 0.1107,
+          "month": 0.0922,
+          "season": 0.0847,
+          "cos_month": 0.0803,
+          "price_rolling_median_7": 0.0641
+        }
+      }
+    },
+    "best_model_name": "xgboost",
+    "baseline_outperformed": false,
+    "selected_model_metrics": {
+      "mae": 81.63,
+      "rmse": 137.59,
+      "mape": 3.09,
+      "smape": 3.21,
+      "r2": -0.111,
+      "directional_accuracy": 40.54,
+      "sample_count": 37,
+      "val_mae": 25.87,
+      "model_name": "XGBoost Regressor",
+      "top_features": {
+        "arrival_rolling_mean_30": 0.1107,
+        "month": 0.0922,
+        "season": 0.0847,
+        "cos_month": 0.0803,
+        "price_rolling_median_7": 0.0641
+      }
+    }
+  },
+  "red_gram_7d": {
+    "crop_id": "red_gram",
+    "crop_name": "Red Gram",
+    "horizon_days": 7,
+    "training_date": "2026-11-04",
+    "data_range": {
+      "min": "2026-02-11",
+      "max": "2026-04-28"
+    },
+    "models": {
+      "last_observed": {
+        "mae": 363.89,
+        "rmse": 483.88,
+        "mape": 5.41,
+        "smape": 5.15,
+        "r2": -2.7896,
+        "directional_accuracy": 0.0,
+        "sample_count": 9,
+        "model_name": "Last Observed Baseline"
+      },
+      "moving_average_7d": {
+        "mae": 322.14,
+        "rmse": 411.54,
+        "mape": 4.78,
+        "smape": 4.59,
+        "r2": -1.7412,
+        "directional_accuracy": 88.89,
+        "sample_count": 9,
+        "model_name": "7-Day Moving Average Baseline"
+      },
+      "seasonal_naive": {
+        "mae": 662.44,
+        "rmse": 721.46,
+        "mape": 9.61,
+        "smape": 9.09,
+        "r2": -7.4243,
+        "directional_accuracy": 33.33,
+        "sample_count": 9,
+        "model_name": "Seasonal Naive Baseline"
+      },
+      "random_forest": {
+        "mae": 451.13,
+        "rmse": 513.24,
+        "mape": 6.62,
+        "smape": 6.34,
+        "r2": -3.2633,
+        "directional_accuracy": 22.22,
+        "sample_count": 9,
+        "val_mae": 173.48,
+        "model_name": "Random Forest Regressor",
+        "top_features": {
+          "sin_day": 0.1348,
+          "price_pct_change_7": 0.1074,
+          "price_rolling_mean_15": 0.0927,
+          "price_spread_lag_1": 0.078,
+          "price_pct_change_15": 0.0709
+        }
+      },
+      "xgboost": {
+        "mae": 327.72,
+        "rmse": 410.18,
+        "mape": 4.85,
+        "smape": 4.67,
+        "r2": -1.7231,
+        "directional_accuracy": 44.44,
+        "sample_count": 9,
+        "val_mae": 111.41,
+        "model_name": "XGBoost Regressor",
+        "top_features": {
+          "price_rolling_mean_15": 0.1737,
+          "arrival_missing_ratio_15": 0.1218,
+          "price_spread_lag_1": 0.1088,
+          "price_pct_change_7": 0.091,
+          "price_pct_change_15": 0.0851
+        }
+      }
+    },
+    "best_model_name": "xgboost",
+    "baseline_outperformed": true,
+    "selected_model_metrics": {
+      "mae": 327.72,
+      "rmse": 410.18,
+      "mape": 4.85,
+      "smape": 4.67,
+      "r2": -1.7231,
+      "directional_accuracy": 44.44,
+      "sample_count": 9,
+      "val_mae": 111.41,
+      "model_name": "XGBoost Regressor",
+      "top_features": {
+        "price_rolling_mean_15": 0.1737,
+        "arrival_missing_ratio_15": 0.1218,
+        "price_spread_lag_1": 0.1088,
+        "price_pct_change_7": 0.091,
+        "price_pct_change_15": 0.0851
+      }
+    }
+  },
+  "red_gram": {
+    "crop_id": "red_gram",
+    "crop_name": "Red Gram",
+    "horizon_days": 7,
+    "training_date": "2026-11-04",
+    "data_range": {
+      "min": "2026-02-11",
+      "max": "2026-04-28"
+    },
+    "models": {
+      "last_observed": {
+        "mae": 363.89,
+        "rmse": 483.88,
+        "mape": 5.41,
+        "smape": 5.15,
+        "r2": -2.7896,
+        "directional_accuracy": 0.0,
+        "sample_count": 9,
+        "model_name": "Last Observed Baseline"
+      },
+      "moving_average_7d": {
+        "mae": 322.14,
+        "rmse": 411.54,
+        "mape": 4.78,
+        "smape": 4.59,
+        "r2": -1.7412,
+        "directional_accuracy": 88.89,
+        "sample_count": 9,
+        "model_name": "7-Day Moving Average Baseline"
+      },
+      "seasonal_naive": {
+        "mae": 662.44,
+        "rmse": 721.46,
+        "mape": 9.61,
+        "smape": 9.09,
+        "r2": -7.4243,
+        "directional_accuracy": 33.33,
+        "sample_count": 9,
+        "model_name": "Seasonal Naive Baseline"
+      },
+      "random_forest": {
+        "mae": 451.13,
+        "rmse": 513.24,
+        "mape": 6.62,
+        "smape": 6.34,
+        "r2": -3.2633,
+        "directional_accuracy": 22.22,
+        "sample_count": 9,
+        "val_mae": 173.48,
+        "model_name": "Random Forest Regressor",
+        "top_features": {
+          "sin_day": 0.1348,
+          "price_pct_change_7": 0.1074,
+          "price_rolling_mean_15": 0.0927,
+          "price_spread_lag_1": 0.078,
+          "price_pct_change_15": 0.0709
+        }
+      },
+      "xgboost": {
+        "mae": 327.72,
+        "rmse": 410.18,
+        "mape": 4.85,
+        "smape": 4.67,
+        "r2": -1.7231,
+        "directional_accuracy": 44.44,
+        "sample_count": 9,
+        "val_mae": 111.41,
+        "model_name": "XGBoost Regressor",
+        "top_features": {
+          "price_rolling_mean_15": 0.1737,
+          "arrival_missing_ratio_15": 0.1218,
+          "price_spread_lag_1": 0.1088,
+          "price_pct_change_7": 0.091,
+          "price_pct_change_15": 0.0851
+        }
+      }
+    },
+    "best_model_name": "xgboost",
+    "baseline_outperformed": true,
+    "selected_model_metrics": {
+      "mae": 327.72,
+      "rmse": 410.18,
+      "mape": 4.85,
+      "smape": 4.67,
+      "r2": -1.7231,
+      "directional_accuracy": 44.44,
+      "sample_count": 9,
+      "val_mae": 111.41,
+      "model_name": "XGBoost Regressor",
+      "top_features": {
+        "price_rolling_mean_15": 0.1737,
+        "arrival_missing_ratio_15": 0.1218,
+        "price_spread_lag_1": 0.1088,
+        "price_pct_change_7": 0.091,
+        "price_pct_change_15": 0.0851
+      }
+    }
+  }
+}

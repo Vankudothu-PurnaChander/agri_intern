@@ -1,0 +1,430 @@
+Arrival_Date,Commodity,Commodity_Code,District,Grade,Market,Max_Price,Min_Price,Modal_Price,State,Variety,rejection_reason,dataset_category,rejected_at
+08-01-2024,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.361365
+05-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6500.0, Max=0.0",Prices,2026-11-04T14:00:28.384931
+10-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6000.0, Max=0.0",Prices,2026-11-04T14:00:28.385232
+12-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6000.0, Max=0.0",Prices,2026-11-04T14:00:28.385497
+13-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6000.0, Max=0.0",Prices,2026-11-04T14:00:28.385752
+24-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.385988
+10-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.386257
+12-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.386567
+13-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.386863
+16-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.387106
+17-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.387340
+19-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.387589
+25-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.387873
+29-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.388154
+19-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.431926
+21-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.432197
+13-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.432443
+16-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.432687
+12-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.432950
+13-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.433198
+17-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.433435
+19-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.433666
+05-04-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.433925
+20-05-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,1940.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=1940.0, Max=0.0",Prices,2026-11-04T14:00:28.434188
+04-11-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.434432
+05-11-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.434663
+10-11-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.434891
+18-11-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.435166
+19-11-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.435417
+30-11-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.435651
+07-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.549517
+08-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.549752
+14-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.549982
+16-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.550222
+17-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.550496
+22-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.550744
+01-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.550978
+11-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.551205
+15-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.551437
+17-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.551679
+19-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.551912
+28-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.552144
+04-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.552393
+05-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.552654
+10-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.552892
+13-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.553121
+25-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.553346
+26-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.553585
+10-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.553826
+19-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.554058
+29-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.554282
+04-06-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.554563
+07-06-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.554810
+08-06-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.555050
+20-06-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.555278
+23-06-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.555698
+27-06-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.556022
+13-07-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.556281
+12-08-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6900.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6900.0, Max=0.0",Prices,2026-11-04T14:00:28.556548
+16-08-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.556791
+21-08-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.557054
+24-08-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.557299
+26-08-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.557536
+05-09-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.557772
+09-09-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.558211
+11-09-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.558585
+06-10-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.558856
+07-10-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.559102
+23-01-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.645916
+30-01-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.646407
+26-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.646911
+02-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.647350
+16-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.647807
+18-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.648055
+26-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.648285
+01-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.648524
+03-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,7500.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=7500.0",Prices,2026-11-04T14:00:28.648758
+09-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.649007
+14-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.649230
+17-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.649441
+22-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.649663
+23-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.649891
+24-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.650109
+02-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.650596
+03-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.650943
+25-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.651232
+13-06-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.651484
+17-06-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.651726
+21-06-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.652007
+30-06-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.652278
+04-07-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6900.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6900.0, Max=0.0",Prices,2026-11-04T14:00:28.652529
+12-07-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.652767
+20-07-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.653007
+14-08-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.653242
+17-08-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.653489
+08-09-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.653733
+10-09-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.653997
+19-09-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.654241
+20-10-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.654496
+27-10-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.654740
+08-10-2024,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.760244
+18-10-2024,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.760546
+01-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.785241
+04-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.785465
+06-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.785681
+09-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.785891
+11-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.786105
+14-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.786379
+22-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.786596
+24-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.786809
+29-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.787036
+30-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.787255
+31-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.787465
+10-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.787672
+12-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.787897
+17-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.788113
+18-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.788359
+25-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.788567
+08-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.788777
+15-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.789000
+18-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.789217
+20-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.789422
+21-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.789623
+27-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.789838
+28-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.790053
+11-04-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,1940.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=1940.0, Max=0.0",Prices,2026-11-04T14:00:28.790288
+01-06-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:28.790500
+18-10-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6080.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6080.0, Max=0.0",Prices,2026-11-04T14:00:28.790719
+12-11-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,1960.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=1960.0, Max=0.0",Prices,2026-11-04T14:00:28.790973
+15-11-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.791542
+21-11-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.791989
+03-12-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.792446
+06-12-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.792875
+08-12-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.793315
+05-02-2024,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.888232
+03-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8200.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8200.0, Max=0.0",Prices,2026-11-04T14:00:28.910297
+15-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6000.0, Max=0.0",Prices,2026-11-04T14:00:28.910589
+17-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6000.0, Max=0.0",Prices,2026-11-04T14:00:28.910862
+18-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6000.0, Max=0.0",Prices,2026-11-04T14:00:28.911127
+22-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.911416
+09-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.911833
+31-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.912295
+02-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8200.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8200.0, Max=0.0",Prices,2026-11-04T14:00:28.946061
+21-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6000.0, Max=0.0",Prices,2026-11-04T14:00:28.946797
+23-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.947332
+26-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.947993
+29-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.948430
+07-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.948809
+08-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.949178
+14-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.949827
+23-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.950249
+24-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.950632
+27-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:28.951036
+27-01-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.996597
+02-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.997195
+03-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.997938
+04-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.998264
+05-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.998583
+12-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.998894
+20-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.999188
+21-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.999477
+27-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:28.999760
+24-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.000033
+25-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.000294
+08-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.000596
+20-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.000900
+01-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.001173
+05-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.001435
+06-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.001699
+20-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.001969
+30-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.002229
+31-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.002496
+09-06-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.002797
+16-06-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.003065
+05-07-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6900.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6900.0, Max=0.0",Prices,2026-11-04T14:00:29.003321
+15-07-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.003577
+09-08-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6900.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6900.0, Max=0.0",Prices,2026-11-04T14:00:29.003854
+18-08-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,700.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=700.0, Max=0.0",Prices,2026-11-04T14:00:29.004114
+20-08-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.004378
+25-08-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.004672
+27-08-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.004941
+30-08-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.005195
+07-09-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.005451
+19-10-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.005889
+19-10-2023,Cotton,15,Warangal,FAQ,Warangal,0.0,4500.0,6650.0,Telangana,Cotton (Unginned),"Non-positive price: Min=4500.0, Modal=6650.0, Max=0.0",Prices,2026-11-04T14:00:29.067300
+07-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.089377
+18-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.089623
+04-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.089882
+06-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.090130
+08-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.090375
+11-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.090609
+19-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.091006
+20-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.091514
+21-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.091877
+24-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.092146
+28-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.092427
+07-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.092691
+14-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.092969
+23-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.093269
+26-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.093561
+29-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.093834
+30-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.094135
+01-04-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.094414
+04-04-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.094700
+30-09-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,1960.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=1960.0, Max=0.0",Prices,2026-11-04T14:00:29.094970
+24-11-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.095278
+25-11-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.095582
+27-11-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.095879
+07-02-2024,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.184184
+07-01-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7300.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7300.0, Max=0.0",Prices,2026-11-04T14:00:29.278843
+09-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.279613
+10-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.280623
+15-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.281616
+19-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.282381
+25-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.282981
+08-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.283569
+10-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.284167
+20-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.284670
+23-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.285196
+29-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.285756
+02-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7450.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7450.0, Max=0.0",Prices,2026-11-04T14:00:29.286194
+12-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.286632
+15-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.287116
+21-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.287624
+07-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.287992
+16-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.288259
+21-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.288525
+23-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.288805
+24-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.289054
+26-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.289295
+01-06-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.289545
+03-06-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.289833
+05-06-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.290096
+11-06-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.290346
+12-06-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.290622
+26-06-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.290983
+07-07-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6900.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6900.0, Max=0.0",Prices,2026-11-04T14:00:29.291250
+08-07-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6900.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6900.0, Max=0.0",Prices,2026-11-04T14:00:29.291539
+31-08-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.291826
+01-09-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.292084
+28-10-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.292358
+04-02-2024,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.354262
+09-10-2024,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.383267
+07-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6000.0, Max=0.0",Prices,2026-11-04T14:00:29.402477
+19-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6000.0, Max=0.0",Prices,2026-11-04T14:00:29.402733
+20-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6000.0, Max=0.0",Prices,2026-11-04T14:00:29.402989
+25-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.403247
+27-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.403505
+03-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.403744
+06-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.403980
+15-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.404300
+02-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.432258
+03-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.432513
+05-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.432754
+08-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.432983
+12-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.433210
+16-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.433444
+17-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.433690
+20-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.433945
+23-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.434252
+01-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.434610
+02-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.434877
+03-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.435117
+15-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.435349
+23-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.435596
+02-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.435862
+03-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.436116
+05-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.436350
+06-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.436590
+10-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.436834
+11-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.437068
+24-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.437294
+16-04-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,1960.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=1960.0, Max=0.0",Prices,2026-11-04T14:00:29.437518
+18-04-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.437758
+09-11-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.438022
+13-11-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.438258
+20-11-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.438492
+23-11-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.438742
+10-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.535116
+13-01-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.535369
+05-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.535608
+07-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.535861
+09-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.536132
+14-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.536389
+22-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.536628
+26-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.536858
+27-02-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.537082
+01-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.537326
+09-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.537561
+16-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.537789
+25-03-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.538046
+06-04-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.538296
+08-11-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.538533
+14-11-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,8000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=8000.0, Max=0.0",Prices,2026-11-04T14:00:29.538761
+17-11-2022,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.538985
+04-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6000.0, Max=0.0",Prices,2026-11-04T14:00:29.612772
+06-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.613013
+08-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6000.0, Max=0.0",Prices,2026-11-04T14:00:29.613254
+09-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.613484
+11-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6000.0, Max=0.0",Prices,2026-11-04T14:00:29.613703
+14-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6000.0, Max=0.0",Prices,2026-11-04T14:00:29.613916
+16-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6000.0, Max=0.0",Prices,2026-11-04T14:00:29.614128
+28-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.614421
+30-11-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.614679
+04-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.614907
+05-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.615123
+11-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.615347
+18-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.615555
+20-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.615775
+26-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.615997
+28-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.616220
+30-12-2021,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.616448
+19-01-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.630361
+06-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.630589
+23-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.630806
+28-02-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.631018
+03-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.631271
+09-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.631504
+13-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.631724
+14-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.631937
+21-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.632145
+27-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.632350
+31-03-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.632577
+06-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.632794
+07-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.633003
+11-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.633226
+16-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.633454
+18-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.633674
+19-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.633882
+27-04-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.634089
+04-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.634312
+08-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.634526
+09-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.634733
+12-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.634937
+13-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.635161
+14-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.635390
+22-05-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.635607
+02-06-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.635816
+06-06-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.636041
+14-06-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.636257
+06-07-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,6900.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=6900.0, Max=0.0",Prices,2026-11-04T14:00:29.636464
+14-07-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.636846
+19-07-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.637295
+21-07-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.637662
+22-07-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.638014
+10-08-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.638370
+15-08-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7500.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7500.0, Max=0.0",Prices,2026-11-04T14:00:29.638747
+22-08-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.639118
+23-08-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.639482
+29-08-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.639825
+04-09-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.640207
+12-09-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.640697
+18-09-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.641137
+18-10-2023,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.641590
+11-10-2024,Cotton,15,Warangal,FAQ,Kodakandal,0.0,0.0,7000.0,Telangana,Cotton (Unginned),"Non-positive price: Min=0.0, Modal=7000.0, Max=0.0",Prices,2026-11-04T14:00:29.744632
+2026-02-03 00:00:00,Dry Chillies,132,Warangal,Local,Warangal APMC,82400.0,40000.0,73000.0,Telangana,Desi,"Modal price 73000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.927623
+2023-08-25 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,55000.0,55000.0,55000.0,Telangana,1st Sort,"Modal price 55000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.937461
+2023-02-02 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,65000.0,65000.0,65000.0,Telangana,Desi,"Modal price 65000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.941977
+2023-02-06 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,73000.0,51000.0,73000.0,Telangana,Desi,"Modal price 73000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.942059
+2023-03-09 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,65000.0,46000.0,59000.0,Telangana,Desi,"Modal price 59000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.942265
+2023-03-15 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,72000.0,50000.0,65000.0,Telangana,Desi,"Modal price 65000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.942337
+2023-03-27 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,65000.0,45000.0,58000.0,Telangana,Desi,"Modal price 58000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.942408
+2023-04-03 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,68000.0,46000.0,65000.0,Telangana,Desi,"Modal price 65000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.942476
+2023-04-12 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,75000.0,65000.0,72000.0,Telangana,Desi,"Modal price 72000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.942546
+2023-09-21 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,55000.0,55000.0,55000.0,Telangana,Desi,"Modal price 55000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.942684
+2023-03-24 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,63000.0,45000.0,60000.0,Telangana,Single Patti,"Modal price 60000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.943220
+2023-02-10 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,60000.0,50000.0,55000.0,Telangana,Desi,"Modal price 55000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.967778
+2023-03-03 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,63000.0,45000.0,55000.0,Telangana,Desi,"Modal price 55000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.968221
+2023-03-10 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,66000.0,45000.0,60000.0,Telangana,Desi,"Modal price 60000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.968319
+2023-03-13 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,70000.0,50000.0,65000.0,Telangana,Desi,"Modal price 65000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.968398
+2023-03-28 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,78000.0,50000.0,75000.0,Telangana,Desi,"Modal price 75000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.968474
+2023-03-29 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,75000.0,55000.0,70000.0,Telangana,Desi,"Modal price 70000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.968554
+2023-04-04 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,72000.0,50000.0,65000.0,Telangana,Desi,"Modal price 65000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.968631
+2023-04-06 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,70000.0,45000.0,65000.0,Telangana,Desi,"Modal price 65000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.968706
+2023-09-13 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,52000.0,52000.0,52000.0,Telangana,Desi,"Modal price 52000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.968855
+2023-10-18 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,53000.0,53000.0,53000.0,Telangana,Desi,"Modal price 53000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.968947
+2023-11-02 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,53000.0,53000.0,53000.0,Telangana,Desi,"Modal price 53000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.969041
+2023-04-03 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,66000.0,40000.0,60000.0,Telangana,Single Patti,"Modal price 60000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.969478
+2023-04-04 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,64000.0,45000.0,60000.0,Telangana,Single Patti,"Modal price 60000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:30.969556
+2023-08-08 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,60000.0,55000.0,60000.0,Telangana,2nd Sort,"Modal price 60000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.007116
+2023-01-25 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,72011.0,72011.0,72011.0,Telangana,Desi,"Modal price 72011.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.008392
+2023-03-14 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,72000.0,50000.0,65000.0,Telangana,Desi,"Modal price 65000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.008584
+2023-04-11 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,76000.0,65000.0,72000.0,Telangana,Desi,"Modal price 72000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.008649
+2023-04-18 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,67000.0,50000.0,55000.0,Telangana,Desi,"Modal price 55000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.008715
+2023-04-19 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,65000.0,50000.0,55000.0,Telangana,Desi,"Modal price 55000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.008780
+2023-04-24 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,64000.0,50000.0,60000.0,Telangana,Desi,"Modal price 60000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.008847
+2023-04-27 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,57000.0,45000.0,54000.0,Telangana,Desi,"Modal price 54000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.008914
+2023-11-01 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,55000.0,47000.0,55000.0,Telangana,Desi,"Modal price 55000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.008999
+2023-03-16 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,63500.0,45000.0,60000.0,Telangana,Single Patti,"Modal price 60000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.009065
+2023-03-23 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,64000.0,45000.0,60000.0,Telangana,Single Patti,"Modal price 60000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.009134
+2023-03-27 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,64000.0,45000.0,58000.0,Telangana,Single Patti,"Modal price 58000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.009199
+2023-04-06 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,67000.0,40000.0,63000.0,Telangana,Single Patti,"Modal price 63000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.009268
+2023-08-09 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,60000.0,60000.0,60000.0,Telangana,1st Sort,"Modal price 60000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.054284
+2023-01-23 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,72500.0,72500.0,72500.0,Telangana,Desi,"Modal price 72500.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.057611
+2023-01-24 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,68000.0,68000.0,68000.0,Telangana,Desi,"Modal price 68000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.057687
+2023-01-27 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,71000.0,71000.0,71000.0,Telangana,Desi,"Modal price 71000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.057755
+2023-02-03 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,63051.0,57000.0,60003.0,Telangana,Desi,"Modal price 60003.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.057832
+2023-02-08 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,73000.0,55000.0,72000.0,Telangana,Desi,"Modal price 72000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.057909
+2023-03-16 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,72000.0,50000.0,65000.0,Telangana,Desi,"Modal price 65000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.057995
+2023-03-17 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,75000.0,51000.0,66000.0,Telangana,Desi,"Modal price 66000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.058074
+2023-03-23 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,80000.0,55000.0,76000.0,Telangana,Desi,"Modal price 76000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.058149
+2023-03-24 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,70000.0,50000.0,65000.0,Telangana,Desi,"Modal price 65000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.058219
+2023-04-13 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,70000.0,60000.0,65000.0,Telangana,Desi,"Modal price 65000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.058271
+2023-04-17 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,66000.0,59000.0,62000.0,Telangana,Desi,"Modal price 62000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.058317
+2023-04-21 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,61000.0,50000.0,55000.0,Telangana,Desi,"Modal price 55000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.058360
+2023-03-03 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,56000.0,48000.0,54000.0,Telangana,Single Patti,"Modal price 54000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.058657
+2023-03-15 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,63000.0,45000.0,59000.0,Telangana,Single Patti,"Modal price 59000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.058834
+2023-03-28 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,61000.0,40000.0,55000.0,Telangana,Single Patti,"Modal price 55000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.058877
+2023-08-23 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,58000.0,36000.0,58000.0,Telangana,1st Sort,"Modal price 58000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.099309
+2023-01-20 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,70011.0,70011.0,70011.0,Telangana,Desi,"Modal price 70011.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.101566
+2023-01-31 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,70000.0,70000.0,70000.0,Telangana,Desi,"Modal price 70000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.101626
+2023-02-09 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,66000.0,50000.0,54000.0,Telangana,Desi,"Modal price 54000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.101688
+2023-02-13 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,60000.0,50000.0,55000.0,Telangana,Desi,"Modal price 55000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.101737
+2023-02-14 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,57000.0,50000.0,55000.0,Telangana,Desi,"Modal price 55000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.101786
+2023-03-06 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,62000.0,45000.0,58000.0,Telangana,Desi,"Modal price 58000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.101921
+2023-03-20 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,75500.0,51000.0,66000.0,Telangana,Desi,"Modal price 66000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.101972
+2023-04-10 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,80000.0,50000.0,75000.0,Telangana,Desi,"Modal price 75000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.102072
+2023-09-26 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,55000.0,55000.0,55000.0,Telangana,Desi,"Modal price 55000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.102285
+2023-10-17 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,55000.0,55000.0,55000.0,Telangana,Desi,"Modal price 55000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.102436
+2023-03-29 00:00:00,Dry Chillies,132,Warangal,FAQ,Warangal,67000.0,46000.0,63000.0,Telangana,Single Patti,"Modal price 63000.0 outside plausible range [2000, 50000] for dry_chillies",Prices,2026-11-04T14:00:31.102692
+22-09-2025,Maize,4,Warangal,FAQ,Narsampet,0.0,2021.0,2111.0,Telangana,Hybrid,"Non-positive price: Min=2021.0, Modal=2111.0, Max=0.0",Prices,2026-11-04T14:00:31.619489
+25-09-2023,Maize,4,Warangal,FAQ,Narsampet,2117.0,0.0,2042.0,Telangana,Hybrid,"Non-positive price: Min=0.0, Modal=2042.0, Max=2117.0",Prices,2026-11-04T14:00:31.676162
+28-04-2025,Maize,4,Warangal,FAQ,Narsampet,0.0,2142.0,2219.0,Telangana,Hybrid,"Non-positive price: Min=2142.0, Modal=2219.0, Max=0.0",Prices,2026-11-04T14:00:31.812979
+17-09-2023,Maize,4,Warangal,FAQ,Narsampet,0.0,1701.0,1756.0,Telangana,Hybrid,"Non-positive price: Min=1701.0, Modal=1756.0, Max=0.0",Prices,2026-11-04T14:00:32.317815
+19-07-2022,Turmeric,39,Warangal,FAQ,Kesamudram,1979.0,1350.0,1953.0,Telangana,Bulb,"Modal price 1953.0 outside plausible range [2000, 30000] for turmeric",Prices,2026-11-04T14:00:32.679501
+09-12-2022,Turmeric,39,Warangal,FAQ,Warangal,1400.0,1400.0,1400.0,Telangana,Bulb,"Modal price 1400.0 outside plausible range [2000, 30000] for turmeric",Prices,2026-11-04T14:00:32.699400
+31-01-2023,Turmeric,39,Warangal,FAQ,Warangal,1000.0,1000.0,1000.0,Telangana,Finger,"Modal price 1000.0 outside plausible range [2000, 30000] for turmeric",Prices,2026-11-04T14:00:32.923068
+05-06-2025,Turmeric,39,Warangal,FAQ,Kesamudram,0.0,6111.0,11211.0,Telangana,Bulb,"Non-positive price: Min=6111.0, Modal=11211.0, Max=0.0",Prices,2026-11-04T14:00:33.004171
+09-12-2022,Turmeric,39,Warangal,FAQ,Warangal,1600.0,1600.0,1600.0,Telangana,Finger,"Modal price 1600.0 outside plausible range [2000, 30000] for turmeric",Prices,2026-11-04T14:00:33.200562

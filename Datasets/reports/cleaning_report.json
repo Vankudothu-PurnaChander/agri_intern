@@ -1,0 +1,72 @@
+{
+  "pipeline_executed_at": "2026-11-04T14:00:34.010082",
+  "target_district": "Warangal",
+  "target_state": "Telangana",
+  "cleaning_statistics": {
+    "prices": {
+      "total_raw": 14538,
+      "cleaned": 14056,
+      "rejected": 429,
+      "duplicates_removed": 53
+    },
+    "arrivals": {
+      "total_raw": 275423,
+      "cleaned": 326,
+      "rejected": 0
+    },
+    "trade": {
+      "total_raw": 140,
+      "cleaned": 56,
+      "rejected": 0
+    }
+  },
+  "rejected_records_count": 429,
+  "rejection_reasons_summary": {
+    "Non-positive price: Min=0.0, Modal=7000.0, Max=0.0": 165,
+    "Non-positive price: Min=0.0, Modal=7500.0, Max=0.0": 98,
+    "Non-positive price: Min=0.0, Modal=8000.0, Max=0.0": 56,
+    "Non-positive price: Min=0.0, Modal=6000.0, Max=0.0": 15,
+    "Modal price 55000.0 outside plausible range [2000, 50000] for dry_chillies": 13,
+    "Modal price 65000.0 outside plausible range [2000, 50000] for dry_chillies": 10,
+    "Modal price 60000.0 outside plausible range [2000, 50000] for dry_chillies": 9,
+    "Non-positive price: Min=0.0, Modal=6900.0, Max=0.0": 7,
+    "Modal price 58000.0 outside plausible range [2000, 50000] for dry_chillies": 4,
+    "Non-positive price: Min=0.0, Modal=1960.0, Max=0.0": 3,
+    "Modal price 72000.0 outside plausible range [2000, 50000] for dry_chillies": 3,
+    "Modal price 54000.0 outside plausible range [2000, 50000] for dry_chillies": 3,
+    "Non-positive price: Min=0.0, Modal=1940.0, Max=0.0": 2,
+    "Non-positive price: Min=0.0, Modal=8200.0, Max=0.0": 2,
+    "Modal price 73000.0 outside plausible range [2000, 50000] for dry_chillies": 2,
+    "Modal price 59000.0 outside plausible range [2000, 50000] for dry_chillies": 2,
+    "Modal price 75000.0 outside plausible range [2000, 50000] for dry_chillies": 2,
+    "Modal price 70000.0 outside plausible range [2000, 50000] for dry_chillies": 2,
+    "Modal price 53000.0 outside plausible range [2000, 50000] for dry_chillies": 2,
+    "Modal price 63000.0 outside plausible range [2000, 50000] for dry_chillies": 2,
+    "Modal price 66000.0 outside plausible range [2000, 50000] for dry_chillies": 2,
+    "Non-positive price: Min=0.0, Modal=6500.0, Max=0.0": 1,
+    "Non-positive price: Min=0.0, Modal=7500.0, Max=7500.0": 1,
+    "Non-positive price: Min=0.0, Modal=6080.0, Max=0.0": 1,
+    "Non-positive price: Min=0.0, Modal=700.0, Max=0.0": 1,
+    "Non-positive price: Min=4500.0, Modal=6650.0, Max=0.0": 1,
+    "Non-positive price: Min=0.0, Modal=7300.0, Max=0.0": 1,
+    "Non-positive price: Min=0.0, Modal=7450.0, Max=0.0": 1,
+    "Modal price 52000.0 outside plausible range [2000, 50000] for dry_chillies": 1,
+    "Modal price 72011.0 outside plausible range [2000, 50000] for dry_chillies": 1,
+    "Modal price 72500.0 outside plausible range [2000, 50000] for dry_chillies": 1,
+    "Modal price 68000.0 outside plausible range [2000, 50000] for dry_chillies": 1,
+    "Modal price 71000.0 outside plausible range [2000, 50000] for dry_chillies": 1,
+    "Modal price 60003.0 outside plausible range [2000, 50000] for dry_chillies": 1,
+    "Modal price 76000.0 outside plausible range [2000, 50000] for dry_chillies": 1,
+    "Modal price 62000.0 outside plausible range [2000, 50000] for dry_chillies": 1,
+    "Modal price 70011.0 outside plausible range [2000, 50000] for dry_chillies": 1,
+    "Non-positive price: Min=2021.0, Modal=2111.0, Max=0.0": 1,
+    "Non-positive price: Min=0.0, Modal=2042.0, Max=2117.0": 1,
+    "Non-positive price: Min=2142.0, Modal=2219.0, Max=0.0": 1,
+    "Non-positive price: Min=1701.0, Modal=1756.0, Max=0.0": 1,
+    "Modal price 1953.0 outside plausible range [2000, 30000] for turmeric": 1,
+    "Modal price 1400.0 outside plausible range [2000, 30000] for turmeric": 1,
+    "Modal price 1000.0 outside plausible range [2000, 30000] for turmeric": 1,
+    "Non-positive price: Min=6111.0, Modal=11211.0, Max=0.0": 1,
+    "Modal price 1600.0 outside plausible range [2000, 30000] for turmeric": 1
+  }
+}

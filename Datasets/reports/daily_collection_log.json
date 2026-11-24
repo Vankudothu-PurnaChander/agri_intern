@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2026-11-04T10:20:32.060481",
+    "target_date": "2026-11-04",
+    "source": "Agmarknet_DataGov_Feed",
+    "status": "SUCCESS",
+    "initial_records": 14056,
+    "new_records_added": 0,
+    "message": "Daily sync verified for Warangal mandis across 7 crops."
+  },
+  {
+    "timestamp": "2026-11-04T11:38:35.254815",
+    "target_date": "2026-11-04",
+    "source": "Data.gov.in_Mandi_Feed",
+    "status": "SUCCESS",
+    "records_fetched": 0,
+    "records_upserted": 0,
+    "records_rejected": 0,
+    "duration_sec": 0,
+    "message": "Daily sync verified for Warangal mandis. 0 new/updated observations."
+  },
+  {
+    "timestamp": "2026-11-04T11:39:52.624908",
+    "target_date": "2026-11-04",
+    "source": "Data.gov.in_Mandi_Feed",
+    "status": "SUCCESS",
+    "records_fetched": 0,
+    "records_upserted": 0,
+    "records_rejected": 0,
+    "duration_sec": 44.73,
+    "message": "Daily sync verified for Warangal mandis. 0 new/updated observations."
+  },
+  {
+    "timestamp": "2026-11-04T23:28:04.721991",
+    "target_date": "2026-11-04",
+    "source": "Data.gov.in_Mandi_Feed",
+    "status": "SUCCESS",
+    "records_fetched": 0,
+    "records_upserted": 0,
+    "records_rejected": 0,
+    "duration_sec": 6.02,
+    "message": "Daily sync verified for Warangal mandis. 0 new/updated observations."
+  },
+  {
+    "timestamp": "2026-11-04T23:28:29.988437",
+    "target_date": "2026-11-04",
+    "source": "Data.gov.in_Mandi_Feed",
+    "status": "SUCCESS",
+    "records_fetched": 476,
+    "records_upserted": 25,
+    "records_rejected": 0,
+    "duration_sec": 5.84,
+    "message": "Daily sync verified for Warangal mandis. 25 new/updated observations."
+  },
+  {
+    "timestamp": "2026-11-04T17:58:47.618Z",
+    "status": "SUCCESS",
+    "recordsFetched": 476,
+    "warangalRecordsMatched": 25,
+    "recordsUpserted": 25,
+    "rejectedCount": 0,
+    "latestObservationDate": "2026-11-04",
+    "durationSec": 1.47,
+    "message": "Synchronized 25 Warangal observations. 25 new/updated in database."
+  }
+]

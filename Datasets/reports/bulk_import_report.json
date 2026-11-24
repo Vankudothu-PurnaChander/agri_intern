@@ -1,0 +1,28 @@
+{
+  "started_at": "2026-11-04T11:34:58.080905",
+  "batch_size": 2500,
+  "prices": {
+    "total": 14056,
+    "upserted": 14056,
+    "skipped_duplicates": 0,
+    "rejected": 0,
+    "duration_sec": 25.94
+  },
+  "arrivals": {
+    "total": 326,
+    "upserted": 326,
+    "skipped_duplicates": 0,
+    "rejected": 0,
+    "duration_sec": 1.31
+  },
+  "trades": {
+    "total": 56,
+    "upserted": 56,
+    "skipped_duplicates": 0,
+    "rejected": 0,
+    "duration_sec": 0.2
+  },
+  "finished_at": "2026-11-04T11:35:25.543928",
+  "total_duration_sec": 27.46,
+  "status": "COMPLETED"
+}

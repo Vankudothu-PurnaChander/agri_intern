@@ -1,0 +1,1572 @@
+{
+  "cotton_tg(2021-2026).csv": {
+    "category": "Historical Mandi Prices",
+    "file_name": "cotton_tg(2021-2026).csv",
+    "format": "csv",
+    "record_count": 4448,
+    "column_count": 11,
+    "columns": [
+      "Arrival_Date",
+      "Commodity",
+      "Commodity_Code",
+      "District",
+      "Grade",
+      "Market",
+      "Max_Price",
+      "Min_Price",
+      "Modal_Price",
+      "State",
+      "Variety"
+    ],
+    "column_descriptions": {
+      "Arrival_Date": "str",
+      "Commodity": "str",
+      "Commodity_Code": "int64",
+      "District": "str",
+      "Grade": "str",
+      "Market": "str",
+      "Max_Price": "float64",
+      "Min_Price": "int64",
+      "Modal_Price": "int64",
+      "State": "str",
+      "Variety": "str"
+    },
+    "date_range": {
+      "min": "2021-01-11",
+      "max": "2026-12-10"
+    },
+    "missing_cells": 0,
+    "missing_percentage": 0.0,
+    "duplicate_count": 0,
+    "invalid_price_records": 355,
+    "crops": [
+      "Cotton"
+    ],
+    "markets": [
+      "Ghanpur",
+      "Warangal",
+      "Kesamudram",
+      "Kodakandal",
+      "Narsampet",
+      "Narsampet(Nekonda)",
+      "Parkal",
+      "Wardhannapet",
+      "Mulugu",
+      "Mahabubabad",
+      "Thorrur",
+      "Warangal APMC",
+      "Narsampet APMC",
+      "Nekkonda APMC",
+      "Jangaon",
+      "Mahabubabad APMC",
+      "Wardhannapet APMC",
+      "Cherial APMC",
+      "Kesamudram APMC"
+    ],
+    "districts": [
+      "Warangal"
+    ],
+    "currency": "INR",
+    "price_unit": "₹/Quintal",
+    "frequency": "Daily",
+    "data_quality_issues": [
+      "355 records with price inconsistency (e.g. Min > Max or Modal outside range)"
+    ],
+    "recommended_cleaning": [
+      "Flag and adjust/quarantine invalid price relations",
+      "Standardize dates to YYYY-MM-DD",
+      "Standardize market names to canonical APMC markets",
+      "Standardize crop name to canonical crop IDs"
+    ]
+  },
+  "drychilli_tg(2021-2026).xlsx": {
+    "category": "Historical Mandi Prices",
+    "file_name": "drychilli_tg(2021-2026).xlsx",
+    "format": "xlsx",
+    "record_count": 3375,
+    "column_count": 11,
+    "columns": [
+      "Arrival_Date",
+      "Commodity",
+      "Commodity_Code",
+      "District",
+      "Grade",
+      "Market",
+      "Max_Price",
+      "Min_Price",
+      "Modal_Price",
+      "State",
+      "Variety"
+    ],
+    "column_descriptions": {
+      "Arrival_Date": "datetime64[us]",
+      "Commodity": "str",
+      "Commodity_Code": "int64",
+      "District": "str",
+      "Grade": "str",
+      "Market": "str",
+      "Max_Price": "int64",
+      "Min_Price": "int64",
+      "Modal_Price": "int64",
+      "State": "str",
+      "Variety": "str"
+    },
+    "date_range": {
+      "min": "2022-01-03",
+      "max": "2026-10-30"
+    },
+    "missing_cells": 0,
+    "missing_percentage": 0.0,
+    "duplicate_count": 0,
+    "invalid_price_records": 0,
+    "crops": [
+      "Dry Chillies"
+    ],
+    "markets": [
+      "Warangal",
+      "Kesamudram",
+      "Mahabubabad",
+      "Thorrur",
+      "Warangal APMC",
+      "Kesamudram APMC",
+      "Mulugu",
+      "Mulugu APMC"
+    ],
+    "districts": [
+      "Warangal"
+    ],
+    "currency": "INR",
+    "price_unit": "₹/Quintal",
+    "frequency": "Daily",
+    "data_quality_issues": [],
+    "recommended_cleaning": [
+      "Standardize dates to YYYY-MM-DD",
+      "Standardize market names to canonical APMC markets",
+      "Standardize crop name to canonical crop IDs"
+    ]
+  },
+  "groundnut_tg(2021-2026).csv": {
+    "category": "Historical Mandi Prices",
+    "file_name": "groundnut_tg(2021-2026).csv",
+    "format": "csv",
+    "record_count": 1079,
+    "column_count": 11,
+    "columns": [
+      "Arrival_Date",
+      "Commodity",
+      "Commodity_Code",
+      "District",
+      "Grade",
+      "Market",
+      "Max_Price",
+      "Min_Price",
+      "Modal_Price",
+      "State",
+      "Variety"
+    ],
+    "column_descriptions": {
+      "Arrival_Date": "str",
+      "Commodity": "str",
+      "Commodity_Code": "int64",
+      "District": "str",
+      "Grade": "str",
+      "Market": "str",
+      "Max_Price": "int64",
+      "Min_Price": "int64",
+      "Modal_Price": "int64",
+      "State": "str",
+      "Variety": "str"
+    },
+    "date_range": {
+      "min": "2021-06-12",
+      "max": "2026-12-10"
+    },
+    "missing_cells": 0,
+    "missing_percentage": 0.0,
+    "duplicate_count": 0,
+    "invalid_price_records": 0,
+    "crops": [
+      "Groundnut"
+    ],
+    "markets": [
+      "Warangal",
+      "Kesamudram",
+      "Mahabubabad",
+      "Jangaon",
+      "Warangal APMC",
+      "Kesamudram APMC",
+      "Jangaon APMC",
+      "Mahabubabad APMC"
+    ],
+    "districts": [
+      "Warangal"
+    ],
+    "currency": "INR",
+    "price_unit": "₹/Quintal",
+    "frequency": "Daily",
+    "data_quality_issues": [],
+    "recommended_cleaning": [
+      "Standardize dates to YYYY-MM-DD",
+      "Standardize market names to canonical APMC markets",
+      "Standardize crop name to canonical crop IDs"
+    ]
+  },
+  "maize_tg(2021-2026).csv": {
+    "category": "Historical Mandi Prices",
+    "file_name": "maize_tg(2021-2026).csv",
+    "format": "csv",
+    "record_count": 3191,
+    "column_count": 11,
+    "columns": [
+      "Arrival_Date",
+      "Commodity",
+      "Commodity_Code",
+      "District",
+      "Grade",
+      "Market",
+      "Max_Price",
+      "Min_Price",
+      "Modal_Price",
+      "State",
+      "Variety"
+    ],
+    "column_descriptions": {
+      "Arrival_Date": "str",
+      "Commodity": "str",
+      "Commodity_Code": "int64",
+      "District": "str",
+      "Grade": "str",
+      "Market": "str",
+      "Max_Price": "float64",
+      "Min_Price": "float64",
+      "Modal_Price": "float64",
+      "State": "str",
+      "Variety": "str"
+    },
+    "date_range": {
+      "min": "2021-02-11",
+      "max": "2026-12-10"
+    },
+    "missing_cells": 0,
+    "missing_percentage": 0.0,
+    "duplicate_count": 0,
+    "invalid_price_records": 4,
+    "crops": [
+      "Maize"
+    ],
+    "markets": [
+      "Jangaon",
+      "Kesamudram",
+      "Warangal",
+      "Narsampet",
+      "Narsampet(Nekonda)",
+      "Mahabubabad",
+      "Ghanpur",
+      "Thorrur",
+      "Wardhannapet",
+      "Warangal APMC",
+      "Kesamudram APMC",
+      "Jangaon APMC",
+      "Narsampet APMC",
+      "Mulugu",
+      "Mulugu APMC",
+      "Cherial APMC",
+      "Mahabubabad APMC",
+      "Nekkonda APMC"
+    ],
+    "districts": [
+      "Warangal"
+    ],
+    "currency": "INR",
+    "price_unit": "₹/Quintal",
+    "frequency": "Daily",
+    "data_quality_issues": [
+      "4 records with price inconsistency (e.g. Min > Max or Modal outside range)"
+    ],
+    "recommended_cleaning": [
+      "Flag and adjust/quarantine invalid price relations",
+      "Standardize dates to YYYY-MM-DD",
+      "Standardize market names to canonical APMC markets",
+      "Standardize crop name to canonical crop IDs"
+    ]
+  },
+  "paddy_tg(2021-2026.csv": {
+    "category": "Historical Mandi Prices",
+    "file_name": "paddy_tg(2021-2026.csv",
+    "format": "csv",
+    "record_count": 406,
+    "column_count": 11,
+    "columns": [
+      "0",
+      "Commodity",
+      "Commodity_Code",
+      "District",
+      "Grade",
+      "Market",
+      "Max_Price",
+      "Min_Price",
+      "Modal_Price",
+      "State",
+      "Variety"
+    ],
+    "column_descriptions": {
+      "0": "str",
+      "Commodity": "str",
+      "Commodity_Code": "int64",
+      "District": "str",
+      "Grade": "str",
+      "Market": "str",
+      "Max_Price": "float64",
+      "Min_Price": "float64",
+      "Modal_Price": "float64",
+      "State": "str",
+      "Variety": "str"
+    },
+    "date_range": {
+      "min": "2025-01-12",
+      "max": "2026-12-10"
+    },
+    "missing_cells": 0,
+    "missing_percentage": 0.0,
+    "duplicate_count": 0,
+    "invalid_price_records": 0,
+    "crops": [
+      "Paddy(Common)"
+    ],
+    "markets": [
+      "Kesamudram APMC",
+      "Jangaon APMC",
+      "Cherial APMC",
+      "Mulugu APMC",
+      "Mahabubabad APMC"
+    ],
+    "districts": [
+      "Warangal"
+    ],
+    "currency": "INR",
+    "price_unit": "₹/Quintal",
+    "frequency": "Daily",
+    "data_quality_issues": [
+      "First column header is named '0' instead of 'Arrival_Date'"
+    ],
+    "recommended_cleaning": [
+      "Rename column '0' to 'Arrival_Date'",
+      "Standardize dates to YYYY-MM-DD",
+      "Standardize market names to canonical APMC markets",
+      "Standardize crop name to canonical crop IDs"
+    ]
+  },
+  "redgram_tg(2021-2026).csv": {
+    "category": "Historical Mandi Prices",
+    "file_name": "redgram_tg(2021-2026).csv",
+    "format": "csv",
+    "record_count": 56,
+    "column_count": 11,
+    "columns": [
+      "Arrival_Date",
+      "Commodity",
+      "Commodity_Code",
+      "District",
+      "Grade",
+      "Market",
+      "Max_Price",
+      "Min_Price",
+      "Modal_Price",
+      "State",
+      "Variety"
+    ],
+    "column_descriptions": {
+      "Arrival_Date": "str",
+      "Commodity": "str",
+      "Commodity_Code": "int64",
+      "District": "str",
+      "Grade": "str",
+      "Market": "str",
+      "Max_Price": "int64",
+      "Min_Price": "int64",
+      "Modal_Price": "int64",
+      "State": "str",
+      "Variety": "str"
+    },
+    "date_range": {
+      "min": "2026-01-27",
+      "max": "2026-12-03"
+    },
+    "missing_cells": 0,
+    "missing_percentage": 0.0,
+    "duplicate_count": 0,
+    "invalid_price_records": 0,
+    "crops": [
+      "Red Gram"
+    ],
+    "markets": [
+      "Warangal APMC",
+      "Kesamudram APMC",
+      "Jangaon APMC",
+      "Cherial APMC"
+    ],
+    "districts": [
+      "Warangal"
+    ],
+    "currency": "INR",
+    "price_unit": "₹/Quintal",
+    "frequency": "Daily",
+    "data_quality_issues": [],
+    "recommended_cleaning": [
+      "Standardize dates to YYYY-MM-DD",
+      "Standardize market names to canonical APMC markets",
+      "Standardize crop name to canonical crop IDs"
+    ]
+  },
+  "turmeric_tg(2021-2026).csv": {
+    "category": "Historical Mandi Prices",
+    "file_name": "turmeric_tg(2021-2026).csv",
+    "format": "csv",
+    "record_count": 1983,
+    "column_count": 11,
+    "columns": [
+      "Arrival_Date",
+      "Commodity",
+      "Commodity_Code",
+      "District",
+      "Grade",
+      "Market",
+      "Max_Price",
+      "Min_Price",
+      "Modal_Price",
+      "State",
+      "Variety"
+    ],
+    "column_descriptions": {
+      "Arrival_Date": "str",
+      "Commodity": "str",
+      "Commodity_Code": "int64",
+      "District": "str",
+      "Grade": "str",
+      "Market": "str",
+      "Max_Price": "int64",
+      "Min_Price": "int64",
+      "Modal_Price": "int64",
+      "State": "str",
+      "Variety": "str"
+    },
+    "date_range": {
+      "min": "2022-01-06",
+      "max": "2026-12-10"
+    },
+    "missing_cells": 0,
+    "missing_percentage": 0.0,
+    "duplicate_count": 0,
+    "invalid_price_records": 1,
+    "crops": [
+      "Turmeric"
+    ],
+    "markets": [
+      "Kesamudram",
+      "Warangal",
+      "Warangal APMC",
+      "Kesamudram APMC"
+    ],
+    "districts": [
+      "Warangal"
+    ],
+    "currency": "INR",
+    "price_unit": "₹/Quintal",
+    "frequency": "Daily",
+    "data_quality_issues": [
+      "1 records with price inconsistency (e.g. Min > Max or Modal outside range)"
+    ],
+    "recommended_cleaning": [
+      "Flag and adjust/quarantine invalid price relations",
+      "Standardize dates to YYYY-MM-DD",
+      "Standardize market names to canonical APMC markets",
+      "Standardize crop name to canonical crop IDs"
+    ]
+  },
+  "market_daily_sample.csv.gz": {
+    "category": "Mandi Arrivals & Daily Prices",
+    "file_name": "market_daily_sample.csv.gz",
+    "format": "csv.gz",
+    "record_count": 275423,
+    "warangal_record_count": 528,
+    "column_count": 8,
+    "columns": [
+      "date",
+      "commodity",
+      "state",
+      "district",
+      "market",
+      "mkt_id",
+      "arrival_t",
+      "modal_price_rs_qtl"
+    ],
+    "column_descriptions": {
+      "date": "str",
+      "commodity": "str",
+      "state": "str",
+      "district": "str",
+      "market": "str",
+      "mkt_id": "int64",
+      "arrival_t": "float64",
+      "modal_price_rs_qtl": "float64"
+    },
+    "date_range": {
+      "min": "2025-11-01",
+      "max": "2026-10-21"
+    },
+    "missing_cells": 0,
+    "missing_percentage": 0.0,
+    "duplicate_count": 0,
+    "invalid_price_records": 0,
+    "crops": [
+      "Maize",
+      "Cotton",
+      "Potato",
+      "Tomato",
+      "Paddy(Common)",
+      "Groundnut",
+      "Green Gram(Moong)(Whole)",
+      "Dry Chillies",
+      "Black Gram(Urd Beans)(Whole)",
+      "Red gram/Arhar/Tur(whole)",
+      "Jowar(Sorghum)",
+      "Turmeric",
+      "Bengal Gram(Gram)(Whole)",
+      "Onion"
+    ],
+    "markets": [
+      "Jangaon APMC",
+      "Narsampet APMC",
+      "Warangal APMC",
+      "Cherial APMC",
+      "Kesamudram APMC",
+      "Mulugu APMC",
+      "Excise Colony,RBZ ",
+      "Kamalapur APMC",
+      "Mahabubabad APMC",
+      "Wardhannapet APMC",
+      "Nekkonda APMC"
+    ],
+    "districts": [
+      "Jangaon",
+      "Warangal",
+      "Mahabubabad",
+      "Mulugu",
+      "Hanumakonda"
+    ],
+    "currency": "INR",
+    "price_unit": "₹/Quintal",
+    "arrival_unit": "Tonnes",
+    "frequency": "Daily",
+    "data_quality_issues": [
+      "National sample contains 275k+ rows; Warangal region has 528 arrival observations",
+      "Arrivals reported in tonnes (arrival_t)",
+      "Some calendar dates have no market report (non-reporting days)"
+    ],
+    "recommended_cleaning": [
+      "Filter to Telangana & Warangal district mandis",
+      "Map Agmarknet commodities to canonical crop IDs",
+      "Standardize market names to APMC canonical names",
+      "Preserve missing dates explicitly as non-reporting (do NOT impute to zero)"
+    ]
+  },
+  "cotton_export(2022-23).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "cotton_export(2022-23).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2022 - 2023",
+      "%Share",
+      "2023 - 2024",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Export",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "cotton_export(2025-2026).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "cotton_export(2025-2026).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2024 - 2025",
+      "%Share",
+      "2025 - 2026",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Export",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "cotton_import(2025-2026).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "cotton_import(2025-2026).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2024 - 2025",
+      "%Share",
+      "2025 - 2026",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Import",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "cotton_imports(2022-23).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "cotton_imports(2022-23).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2021 - 2022",
+      "%Share",
+      "2022 - 2023",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Import",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "drychilli_import(2025-2026).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "drychilli_import(2025-2026).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2024 - 2025",
+      "%Share",
+      "2025 - 2026",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Import",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "drychillies_export(2022-23).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "drychillies_export(2022-23).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2022 - 2023",
+      "%Share",
+      "2023 - 2024",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Export",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "drychillies_export(2025-2026).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "drychillies_export(2025-2026).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2024 - 2025",
+      "%Share",
+      "2025 - 2026",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Export",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "drychillies_import(2022-23).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "drychillies_import(2022-23).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2022 - 2023",
+      "%Share",
+      "2023 - 2024",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Import",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "groundnut_export(2022-23).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "groundnut_export(2022-23).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2022 - 2023",
+      "%Share",
+      "2023 - 2024",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Export",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "groundnut_export(2025-2026).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "groundnut_export(2025-2026).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2024 - 2025",
+      "%Share",
+      "2025 - 2026",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Export",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "groundnut_import(2022-23).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "groundnut_import(2022-23).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2022 - 2023",
+      "%Share",
+      "2023 - 2024",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Import",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "groundnut_import(2025-2026).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "groundnut_import(2025-2026).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2024 - 2025",
+      "%Share",
+      "2025 - 2026",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Import",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "maize_export(2022-23).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "maize_export(2022-23).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2022 - 2023",
+      "%Share",
+      "2023 - 2024",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Export",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "maize_export(2025-2026).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "maize_export(2025-2026).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2024 - 2025",
+      "%Share",
+      "2025 - 2026",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Export",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "maize_import(2025-2026).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "maize_import(2025-2026).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2024 - 2025",
+      "%Share",
+      "2025 - 2026",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Import",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "maize_imports(2022-23).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "maize_imports(2022-23).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2022 - 2023",
+      "%Share",
+      "2023 - 2024",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Import",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "paddy_export(2022-23).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "paddy_export(2022-23).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2022 - 2023",
+      "%Share",
+      "2023 - 2024",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Export",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "paddy_export(2025-2026).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "paddy_export(2025-2026).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2024 - 2025",
+      "%Share",
+      "2025 - 2026",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Export",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "paddy_import(2022-23).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "paddy_import(2022-23).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2022 - 2023",
+      "%Share",
+      "2023 - 2024",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Import",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "paddy_import(2025-2026).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "paddy_import(2025-2026).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2024 - 2025",
+      "%Share",
+      "2025 - 2026",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Import",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "redgram_export(2022-23).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "redgram_export(2022-23).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2022 - 2023",
+      "%Share",
+      "2023 - 2024",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Export",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "redgram_exports(2025-2026).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "redgram_exports(2025-2026).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2024 - 2025",
+      "%Share",
+      "2025 - 2026",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Export",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "redgram_imports(2022-23).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "redgram_imports(2022-23).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2022 - 2023",
+      "%Share",
+      "2023 - 2024",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Import",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "redgram_imports(2025-2026).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "redgram_imports(2025-2026).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2024 - 2025",
+      "%Share",
+      "2025 - 2026",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Import",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "turmeric_export(2022-23).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "turmeric_export(2022-23).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2022 - 2023",
+      "%Share",
+      "2023 - 2024",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Export",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "turmeric_export(2025-2026).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "turmeric_export(2025-2026).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2024 - 2025",
+      "%Share",
+      "2025 - 2026",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Export",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "turmeric_import(2025-2026).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "turmeric_import(2025-2026).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2024 - 2025",
+      "%Share",
+      "2025 - 2026",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Import",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "turmeric_imports(2022-23).xlsx": {
+    "category": "National Imports & Exports",
+    "file_name": "turmeric_imports(2022-23).xlsx",
+    "format": "xlsx",
+    "record_count": 5,
+    "data_record_count": 2,
+    "column_count": 8,
+    "headers": [
+      "S.No.",
+      "HSCode",
+      "Commodity",
+      "2022 - 2023",
+      "%Share",
+      "2023 - 2024",
+      "%Share",
+      "%Growth"
+    ],
+    "trade_direction": "Import",
+    "currency": "INR",
+    "monetary_unit": "₹ Crore",
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate data from DGCIS / Department of Commerce",
+      "Annual/fiscal year granularity (not daily or district-specific)",
+      "Values presented in ₹ Crore"
+    ],
+    "recommended_cleaning": [
+      "Extract HSCode, Commodity description, fiscal year values, % share, % growth",
+      "Label strictly as National-Level Trade statistics (do NOT label as Warangal)",
+      "Align temporally to corresponding fiscal years for macro contextual indicator"
+    ]
+  },
+  "trade.csv.gz": {
+    "category": "National Imports & Exports (UPAG)",
+    "file_name": "trade.csv.gz",
+    "format": "csv.gz",
+    "record_count": 467,
+    "column_count": 7,
+    "columns": [
+      "trade",
+      "category",
+      "commodity",
+      "fiscalyear",
+      "metric",
+      "value",
+      "subcategory"
+    ],
+    "fiscal_years": [
+      "2015 - 16",
+      "2026 - 27",
+      NaN
+    ],
+    "trades": [
+      "Export",
+      "Import"
+    ],
+    "commodities": [
+      "Cotton",
+      "Guarseed",
+      "Jute",
+      "Sugarcane",
+      "Total (Commercial crops)",
+      "Total",
+      "Cowpea",
+      "Gram",
+      "Lentil",
+      "Moong",
+      "Peas",
+      "Tur",
+      "Urad",
+      "Total (Pulses)",
+      "Castorseed",
+      "Groundnut",
+      "Groundnut (Meal/Cake)",
+      "Groundnut Oil",
+      "Linseed",
+      "Nigerseed",
+      "Palm oil",
+      "Rapeseed & Mustard",
+      "Rapeseed & Mustard (Meal/Cake)",
+      "Rapeseed & Mustard Oil",
+      "Safflower",
+      "Safflower Oil",
+      "Sesamum",
+      "Soya oil",
+      "Soybean",
+      "Soybean (Meal/Cake)",
+      "Sunflower",
+      "Sunflower (Meal/Cake)",
+      "Sunflower oil",
+      "Total (Oilseeds)"
+    ],
+    "metrics": [
+      "Quantity",
+      "Value (INR)",
+      "Value (USD)",
+      "change In Quantity(%)"
+    ],
+    "frequency": "Annual / Fiscal Year",
+    "is_national": true,
+    "data_quality_issues": [
+      "National-level aggregate UPAG trade data across multiple crops"
+    ],
+    "recommended_cleaning": [
+      "Filter for the 7 target commodities and normalize fiscal years"
+    ]
+  }
+}

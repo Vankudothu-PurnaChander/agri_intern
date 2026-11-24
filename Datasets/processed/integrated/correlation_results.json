@@ -1,0 +1,1285 @@
+{
+  "cotton_district": {
+    "crop_id": "cotton",
+    "crop_name": "Cotton",
+    "market_name": "Warangal District Aggregate",
+    "analysis_date": "2026-11-04",
+    "sample_count": 27,
+    "pearson": {
+      "correlation": -0.243,
+      "p_value": 0.22196,
+      "is_significant": false
+    },
+    "spearman": {
+      "correlation": 0.0283,
+      "p_value": 0.88875,
+      "is_significant": false
+    },
+    "lagged_correlations": {
+      "lag_0_days": {
+        "lag_days": 0,
+        "correlation": -0.2991,
+        "p_value": 0.10839,
+        "sample_count": 30,
+        "is_significant": false
+      },
+      "lag_1_days": {
+        "lag_days": 1,
+        "correlation": -0.2995,
+        "p_value": 0.10781,
+        "sample_count": 30,
+        "is_significant": false
+      },
+      "lag_3_days": {
+        "lag_days": 3,
+        "correlation": -0.3094,
+        "p_value": 0.10246,
+        "sample_count": 29,
+        "is_significant": false
+      },
+      "lag_7_days": {
+        "lag_days": 7,
+        "correlation": -0.309,
+        "p_value": 0.11677,
+        "sample_count": 27,
+        "is_significant": false
+      },
+      "lag_15_days": {
+        "lag_days": 15,
+        "correlation": -0.3073,
+        "p_value": 0.11162,
+        "sample_count": 28,
+        "is_significant": false
+      }
+    },
+    "rolling_correlations": [
+      {
+        "date": "2026-03-25",
+        "correlation": -0.0862
+      },
+      {
+        "date": "2026-04-24",
+        "correlation": -0.1465
+      },
+      {
+        "date": "2026-04-30",
+        "correlation": -0.2303
+      },
+      {
+        "date": "2026-05-12",
+        "correlation": -0.3555
+      },
+      {
+        "date": "2026-05-18",
+        "correlation": -0.2962
+      },
+      {
+        "date": "2026-06-11",
+        "correlation": -0.2826
+      },
+      {
+        "date": "2026-06-23",
+        "correlation": -0.262
+      },
+      {
+        "date": "2026-07-23",
+        "correlation": -0.3092
+      },
+      {
+        "date": "2026-07-29",
+        "correlation": -0.4007
+      },
+      {
+        "date": "2026-08-04",
+        "correlation": -0.5578
+      },
+      {
+        "date": "2026-09-09",
+        "correlation": -0.674
+      },
+      {
+        "date": "2026-09-15",
+        "correlation": -0.701
+      },
+      {
+        "date": "2026-09-21",
+        "correlation": -0.7208
+      }
+    ],
+    "granger_causality": null,
+    "interpretation": "Over 27 valid observations, arrivals and modal prices show a weak negative (higher arrivals tend to correspond with lower prices) at a 3-day lag. This relationship is not statistically significant (observed variations may be due to market noise). Note: Correlation indicates historical association, not real-world causation.",
+    "selected_lag": 3
+  },
+  "cotton_Warangal_APMC": {
+    "crop_id": "cotton",
+    "crop_name": "Cotton",
+    "market_name": "Warangal APMC",
+    "analysis_date": "2026-11-04",
+    "sample_count": 20,
+    "pearson": {
+      "correlation": -0.4288,
+      "p_value": 0.0592,
+      "is_significant": false
+    },
+    "spearman": {
+      "correlation": -0.1734,
+      "p_value": 0.46462,
+      "is_significant": false
+    },
+    "lagged_correlations": {
+      "lag_0_days": {
+        "lag_days": 0,
+        "correlation": -0.4288,
+        "p_value": 0.0592,
+        "sample_count": 20,
+        "is_significant": false
+      },
+      "lag_1_days": {
+        "lag_days": 1,
+        "correlation": -0.4445,
+        "p_value": 0.04955,
+        "sample_count": 20,
+        "is_significant": true
+      },
+      "lag_3_days": {
+        "lag_days": 3,
+        "correlation": -0.4122,
+        "p_value": 0.07096,
+        "sample_count": 20,
+        "is_significant": false
+      },
+      "lag_7_days": {
+        "lag_days": 7,
+        "correlation": -0.3769,
+        "p_value": 0.13586,
+        "sample_count": 17,
+        "is_significant": false
+      },
+      "lag_15_days": {
+        "lag_days": 15,
+        "correlation": -0.364,
+        "p_value": 0.15095,
+        "sample_count": 17,
+        "is_significant": false
+      }
+    },
+    "rolling_correlations": [
+      {
+        "date": "2026-09-03",
+        "correlation": -0.3319
+      },
+      {
+        "date": "2026-09-09",
+        "correlation": -0.495
+      },
+      {
+        "date": "2026-09-15",
+        "correlation": -0.6622
+      },
+      {
+        "date": "2026-09-21",
+        "correlation": -0.8018
+      },
+      {
+        "date": "2026-10-09",
+        "correlation": -0.7933
+      },
+      {
+        "date": "2026-10-15",
+        "correlation": -0.7579
+      }
+    ],
+    "granger_causality": null,
+    "interpretation": "Over 20 valid observations, arrivals and modal prices show a moderate negative (higher arrivals tend to correspond with lower prices) at a 1-day lag. This relationship is statistically significant (p < 0.05). Note: Correlation indicates historical association, not real-world causation.",
+    "selected_lag": 1
+  },
+  "dry_chillies_district": {
+    "crop_id": "dry_chillies",
+    "crop_name": "Dry Chillies",
+    "market_name": "Warangal District Aggregate",
+    "analysis_date": "2026-11-04",
+    "sample_count": 23,
+    "pearson": {
+      "correlation": 0.5111,
+      "p_value": 0.01268,
+      "is_significant": true
+    },
+    "spearman": {
+      "correlation": 0.7578,
+      "p_value": 3e-05,
+      "is_significant": true
+    },
+    "lagged_correlations": {
+      "lag_0_days": {
+        "lag_days": 0,
+        "correlation": 0.4632,
+        "p_value": 0.02265,
+        "sample_count": 24,
+        "is_significant": true
+      },
+      "lag_1_days": {
+        "lag_days": 1,
+        "correlation": 0.2514,
+        "p_value": 0.22542,
+        "sample_count": 25,
+        "is_significant": false
+      },
+      "lag_3_days": {
+        "lag_days": 3,
+        "correlation": 0.0964,
+        "p_value": 0.64682,
+        "sample_count": 25,
+        "is_significant": false
+      },
+      "lag_7_days": {
+        "lag_days": 7,
+        "correlation": -0.201,
+        "p_value": 0.35773,
+        "sample_count": 23,
+        "is_significant": false
+      },
+      "lag_15_days": {
+        "lag_days": 15,
+        "correlation": -0.1522,
+        "p_value": 0.4881,
+        "sample_count": 23,
+        "is_significant": false
+      }
+    },
+    "rolling_correlations": [
+      {
+        "date": "2026-06-17",
+        "correlation": 0.7554
+      },
+      {
+        "date": "2026-06-23",
+        "correlation": 0.7671
+      },
+      {
+        "date": "2026-06-29",
+        "correlation": 0.7682
+      },
+      {
+        "date": "2026-07-29",
+        "correlation": 0.716
+      },
+      {
+        "date": "2026-08-04",
+        "correlation": 0.7914
+      },
+      {
+        "date": "2026-09-03",
+        "correlation": 0.7029
+      },
+      {
+        "date": "2026-09-09",
+        "correlation": 0.6671
+      },
+      {
+        "date": "2026-09-21",
+        "correlation": 0.572
+      },
+      {
+        "date": "2026-10-15",
+        "correlation": 0.3889
+      }
+    ],
+    "granger_causality": null,
+    "interpretation": "Over 23 valid observations, arrivals and modal prices show a moderate positive (higher arrivals coincide with higher prices, often during peak harvest demand) on the same day. This relationship is statistically significant (p < 0.05). Note: Correlation indicates historical association, not real-world causation.",
+    "selected_lag": 0
+  },
+  "dry_chillies_Warangal_APMC": {
+    "crop_id": "dry_chillies",
+    "crop_name": "Dry Chillies",
+    "market_name": "Warangal APMC",
+    "analysis_date": "2026-11-04",
+    "sample_count": 19,
+    "pearson": {
+      "correlation": 0.5039,
+      "p_value": 0.02784,
+      "is_significant": true
+    },
+    "spearman": {
+      "correlation": 0.6591,
+      "p_value": 0.00215,
+      "is_significant": true
+    },
+    "lagged_correlations": {
+      "lag_0_days": {
+        "lag_days": 0,
+        "correlation": 0.5039,
+        "p_value": 0.02784,
+        "sample_count": 19,
+        "is_significant": true
+      },
+      "lag_1_days": {
+        "lag_days": 1,
+        "correlation": 0.5699,
+        "p_value": 0.01086,
+        "sample_count": 19,
+        "is_significant": true
+      },
+      "lag_3_days": {
+        "lag_days": 3,
+        "correlation": 0.481,
+        "p_value": 0.03706,
+        "sample_count": 19,
+        "is_significant": true
+      },
+      "lag_7_days": {
+        "lag_days": 7,
+        "correlation": 0.2322,
+        "p_value": 0.3869,
+        "sample_count": 16,
+        "is_significant": false
+      },
+      "lag_15_days": {
+        "lag_days": 15,
+        "correlation": 0.2086,
+        "p_value": 0.43809,
+        "sample_count": 16,
+        "is_significant": false
+      }
+    },
+    "rolling_correlations": [],
+    "granger_causality": null,
+    "interpretation": "Over 19 valid observations, arrivals and modal prices show a moderate positive (higher arrivals coincide with higher prices, often during peak harvest demand) at a 1-day lag. This relationship is statistically significant (p < 0.05). Note: Correlation indicates historical association, not real-world causation.",
+    "selected_lag": 1
+  },
+  "dry_chillies_Kesamudram_APMC": {
+    "crop_id": "dry_chillies",
+    "crop_name": "Dry Chillies",
+    "market_name": "Kesamudram APMC",
+    "analysis_date": "2026-11-04",
+    "sample_count": 10,
+    "pearson": {
+      "correlation": 0.5979,
+      "p_value": 0.06789,
+      "is_significant": false
+    },
+    "spearman": {
+      "correlation": 0.4303,
+      "p_value": 0.21449,
+      "is_significant": false
+    },
+    "lagged_correlations": {
+      "lag_0_days": {
+        "lag_days": 0,
+        "correlation": 0.5979,
+        "p_value": 0.06789,
+        "sample_count": 10,
+        "is_significant": false
+      },
+      "lag_1_days": {
+        "lag_days": 1,
+        "correlation": 0.5979,
+        "p_value": 0.06793,
+        "sample_count": 10,
+        "is_significant": false
+      },
+      "lag_3_days": {
+        "lag_days": 3,
+        "correlation": 0.4607,
+        "p_value": 0.18021,
+        "sample_count": 10,
+        "is_significant": false
+      },
+      "lag_7_days": {
+        "lag_days": 7,
+        "correlation": null,
+        "p_value": null,
+        "sample_count": 7,
+        "is_significant": false
+      },
+      "lag_15_days": {
+        "lag_days": 15,
+        "correlation": null,
+        "p_value": null,
+        "sample_count": 7,
+        "is_significant": false
+      }
+    },
+    "rolling_correlations": [],
+    "granger_causality": null,
+    "interpretation": "Over 10 valid observations, arrivals and modal prices show a moderate positive (higher arrivals coincide with higher prices, often during peak harvest demand) on the same day. This relationship is not statistically significant (observed variations may be due to market noise). Note: Correlation indicates historical association, not real-world causation.",
+    "selected_lag": 0
+  },
+  "maize_district": {
+    "crop_id": "maize",
+    "crop_name": "Maize",
+    "market_name": "Warangal District Aggregate",
+    "analysis_date": "2026-11-04",
+    "sample_count": 31,
+    "pearson": {
+      "correlation": -0.2039,
+      "p_value": 0.27123,
+      "is_significant": false
+    },
+    "spearman": {
+      "correlation": -0.3207,
+      "p_value": 0.07855,
+      "is_significant": false
+    },
+    "lagged_correlations": {
+      "lag_0_days": {
+        "lag_days": 0,
+        "correlation": -0.2445,
+        "p_value": 0.15694,
+        "sample_count": 35,
+        "is_significant": false
+      },
+      "lag_1_days": {
+        "lag_days": 1,
+        "correlation": -0.2108,
+        "p_value": 0.21714,
+        "sample_count": 36,
+        "is_significant": false
+      },
+      "lag_3_days": {
+        "lag_days": 3,
+        "correlation": -0.3043,
+        "p_value": 0.07112,
+        "sample_count": 36,
+        "is_significant": false
+      },
+      "lag_7_days": {
+        "lag_days": 7,
+        "correlation": -0.3154,
+        "p_value": 0.05719,
+        "sample_count": 37,
+        "is_significant": false
+      },
+      "lag_15_days": {
+        "lag_days": 15,
+        "correlation": -0.3191,
+        "p_value": 0.05423,
+        "sample_count": 37,
+        "is_significant": false
+      }
+    },
+    "rolling_correlations": [
+      {
+        "date": "2026-04-06",
+        "correlation": -0.0557
+      },
+      {
+        "date": "2026-04-12",
+        "correlation": 0.2372
+      },
+      {
+        "date": "2026-04-18",
+        "correlation": 0.1838
+      },
+      {
+        "date": "2026-04-24",
+        "correlation": -0.0528
+      },
+      {
+        "date": "2026-04-30",
+        "correlation": -0.1678
+      },
+      {
+        "date": "2026-05-06",
+        "correlation": -0.1574
+      },
+      {
+        "date": "2026-05-12",
+        "correlation": -0.1807
+      },
+      {
+        "date": "2026-05-18",
+        "correlation": -0.1662
+      },
+      {
+        "date": "2026-05-30",
+        "correlation": -0.2562
+      },
+      {
+        "date": "2026-06-05",
+        "correlation": -0.2456
+      },
+      {
+        "date": "2026-06-11",
+        "correlation": -0.2621
+      },
+      {
+        "date": "2026-06-17",
+        "correlation": -0.3182
+      },
+      {
+        "date": "2026-06-23",
+        "correlation": -0.3812
+      },
+      {
+        "date": "2026-06-29",
+        "correlation": -0.4104
+      },
+      {
+        "date": "2026-09-27",
+        "correlation": -0.4331
+      },
+      {
+        "date": "2026-10-09",
+        "correlation": -0.4353
+      },
+      {
+        "date": "2026-10-15",
+        "correlation": -0.4277
+      }
+    ],
+    "granger_causality": {
+      "tested": false,
+      "reason": "grangercausalitytests() got an unexpected keyword argument 'verbose'"
+    },
+    "interpretation": "Over 31 valid observations, arrivals and modal prices show a weak negative (higher arrivals tend to correspond with lower prices) at a 15-day lag. This relationship is not statistically significant (observed variations may be due to market noise). Note: Correlation indicates historical association, not real-world causation.",
+    "selected_lag": 15
+  },
+  "maize_Warangal_APMC": {
+    "crop_id": "maize",
+    "crop_name": "Maize",
+    "market_name": "Warangal APMC",
+    "analysis_date": "2026-11-04",
+    "sample_count": 18,
+    "pearson": {
+      "correlation": -0.4177,
+      "p_value": 0.08454,
+      "is_significant": false
+    },
+    "spearman": {
+      "correlation": -0.2157,
+      "p_value": 0.39003,
+      "is_significant": false
+    },
+    "lagged_correlations": {
+      "lag_0_days": {
+        "lag_days": 0,
+        "correlation": -0.4177,
+        "p_value": 0.08454,
+        "sample_count": 18,
+        "is_significant": false
+      },
+      "lag_1_days": {
+        "lag_days": 1,
+        "correlation": -0.5063,
+        "p_value": 0.03202,
+        "sample_count": 18,
+        "is_significant": true
+      },
+      "lag_3_days": {
+        "lag_days": 3,
+        "correlation": -0.5304,
+        "p_value": 0.02354,
+        "sample_count": 18,
+        "is_significant": true
+      },
+      "lag_7_days": {
+        "lag_days": 7,
+        "correlation": -0.5669,
+        "p_value": 0.02753,
+        "sample_count": 15,
+        "is_significant": true
+      },
+      "lag_15_days": {
+        "lag_days": 15,
+        "correlation": -0.5831,
+        "p_value": 0.0225,
+        "sample_count": 15,
+        "is_significant": true
+      }
+    },
+    "rolling_correlations": [],
+    "granger_causality": null,
+    "interpretation": "Over 18 valid observations, arrivals and modal prices show a moderate negative (higher arrivals tend to correspond with lower prices) at a 15-day lag. This relationship is statistically significant (p < 0.05). Note: Correlation indicates historical association, not real-world causation.",
+    "selected_lag": 15
+  },
+  "maize_Kesamudram_APMC": {
+    "crop_id": "maize",
+    "crop_name": "Maize",
+    "market_name": "Kesamudram APMC",
+    "analysis_date": "2026-11-04",
+    "sample_count": 9,
+    "pearson": {
+      "correlation": -0.3205,
+      "p_value": 0.4004,
+      "is_significant": false
+    },
+    "spearman": {
+      "correlation": -0.4,
+      "p_value": 0.28611,
+      "is_significant": false
+    },
+    "lagged_correlations": {
+      "lag_0_days": {
+        "lag_days": 0,
+        "correlation": -0.3205,
+        "p_value": 0.4004,
+        "sample_count": 9,
+        "is_significant": false
+      },
+      "lag_1_days": {
+        "lag_days": 1,
+        "correlation": -0.4696,
+        "p_value": 0.20213,
+        "sample_count": 9,
+        "is_significant": false
+      },
+      "lag_3_days": {
+        "lag_days": 3,
+        "correlation": -0.4675,
+        "p_value": 0.20448,
+        "sample_count": 9,
+        "is_significant": false
+      },
+      "lag_7_days": {
+        "lag_days": 7,
+        "correlation": null,
+        "p_value": null,
+        "sample_count": 5,
+        "is_significant": false
+      },
+      "lag_15_days": {
+        "lag_days": 15,
+        "correlation": null,
+        "p_value": null,
+        "sample_count": 6,
+        "is_significant": false
+      }
+    },
+    "rolling_correlations": [],
+    "granger_causality": null,
+    "interpretation": "Insufficient overlapping price and arrival records to establish a reliable relationship.",
+    "selected_lag": 1
+  },
+  "maize_Jangaon_APMC": {
+    "crop_id": "maize",
+    "crop_name": "Maize",
+    "market_name": "Jangaon APMC",
+    "analysis_date": "2026-11-04",
+    "sample_count": 12,
+    "pearson": {
+      "correlation": -0.7325,
+      "p_value": 0.00674,
+      "is_significant": true
+    },
+    "spearman": {
+      "correlation": -0.7741,
+      "p_value": 0.00313,
+      "is_significant": true
+    },
+    "lagged_correlations": {
+      "lag_0_days": {
+        "lag_days": 0,
+        "correlation": -0.7325,
+        "p_value": 0.00674,
+        "sample_count": 12,
+        "is_significant": true
+      },
+      "lag_1_days": {
+        "lag_days": 1,
+        "correlation": 0.7961,
+        "p_value": 0.00195,
+        "sample_count": 12,
+        "is_significant": true
+      },
+      "lag_3_days": {
+        "lag_days": 3,
+        "correlation": 0.0051,
+        "p_value": 0.9874,
+        "sample_count": 12,
+        "is_significant": false
+      },
+      "lag_7_days": {
+        "lag_days": 7,
+        "correlation": -0.32,
+        "p_value": 0.31057,
+        "sample_count": 12,
+        "is_significant": false
+      },
+      "lag_15_days": {
+        "lag_days": 15,
+        "correlation": 0.0833,
+        "p_value": 0.80757,
+        "sample_count": 11,
+        "is_significant": false
+      }
+    },
+    "rolling_correlations": [],
+    "granger_causality": null,
+    "interpretation": "Over 12 valid observations, arrivals and modal prices show a strong positive (higher arrivals coincide with higher prices, often during peak harvest demand) at a 1-day lag. This relationship is statistically significant (p < 0.05). Note: Correlation indicates historical association, not real-world causation.",
+    "selected_lag": 1
+  },
+  "turmeric_district": {
+    "crop_id": "turmeric",
+    "crop_name": "Turmeric",
+    "market_name": "Warangal District Aggregate",
+    "analysis_date": "2026-11-04",
+    "sample_count": 10,
+    "pearson": {
+      "correlation": -0.2811,
+      "p_value": 0.43137,
+      "is_significant": false
+    },
+    "spearman": {
+      "correlation": -0.3212,
+      "p_value": 0.36547,
+      "is_significant": false
+    },
+    "lagged_correlations": {
+      "lag_0_days": {
+        "lag_days": 0,
+        "correlation": -0.3556,
+        "p_value": 0.1934,
+        "sample_count": 15,
+        "is_significant": false
+      },
+      "lag_1_days": {
+        "lag_days": 1,
+        "correlation": -0.3505,
+        "p_value": 0.20023,
+        "sample_count": 15,
+        "is_significant": false
+      },
+      "lag_3_days": {
+        "lag_days": 3,
+        "correlation": -0.2836,
+        "p_value": 0.28711,
+        "sample_count": 16,
+        "is_significant": false
+      },
+      "lag_7_days": {
+        "lag_days": 7,
+        "correlation": -0.0693,
+        "p_value": 0.82194,
+        "sample_count": 13,
+        "is_significant": false
+      },
+      "lag_15_days": {
+        "lag_days": 15,
+        "correlation": -0.1259,
+        "p_value": 0.64228,
+        "sample_count": 16,
+        "is_significant": false
+      }
+    },
+    "rolling_correlations": [],
+    "granger_causality": null,
+    "interpretation": "Over 10 valid observations, arrivals and modal prices show a weak negative (higher arrivals tend to correspond with lower prices) on the same day. This relationship is not statistically significant (observed variations may be due to market noise). Note: Correlation indicates historical association, not real-world causation.",
+    "selected_lag": 0
+  },
+  "turmeric_Warangal_APMC": {
+    "crop_id": "turmeric",
+    "crop_name": "Turmeric",
+    "market_name": "Warangal APMC",
+    "analysis_date": "2026-11-04",
+    "sample_count": 10,
+    "pearson": {
+      "correlation": -0.4172,
+      "p_value": 0.23038,
+      "is_significant": false
+    },
+    "spearman": {
+      "correlation": -0.4424,
+      "p_value": 0.20042,
+      "is_significant": false
+    },
+    "lagged_correlations": {
+      "lag_0_days": {
+        "lag_days": 0,
+        "correlation": -0.4172,
+        "p_value": 0.23038,
+        "sample_count": 10,
+        "is_significant": false
+      },
+      "lag_1_days": {
+        "lag_days": 1,
+        "correlation": -0.399,
+        "p_value": 0.25336,
+        "sample_count": 10,
+        "is_significant": false
+      },
+      "lag_3_days": {
+        "lag_days": 3,
+        "correlation": -0.5368,
+        "p_value": 0.10965,
+        "sample_count": 10,
+        "is_significant": false
+      },
+      "lag_7_days": {
+        "lag_days": 7,
+        "correlation": -0.7183,
+        "p_value": 0.02926,
+        "sample_count": 9,
+        "is_significant": true
+      },
+      "lag_15_days": {
+        "lag_days": 15,
+        "correlation": null,
+        "p_value": null,
+        "sample_count": 7,
+        "is_significant": false
+      }
+    },
+    "rolling_correlations": [],
+    "granger_causality": null,
+    "interpretation": "Over 10 valid observations, arrivals and modal prices show a strong negative (higher arrivals tend to correspond with lower prices) at a 7-day lag. This relationship is statistically significant (p < 0.05). Note: Correlation indicates historical association, not real-world causation.",
+    "selected_lag": 7
+  },
+  "turmeric_Kesamudram_APMC": {
+    "crop_id": "turmeric",
+    "crop_name": "Turmeric",
+    "market_name": "Kesamudram APMC",
+    "analysis_date": "2026-11-04",
+    "sample_count": 7,
+    "pearson": {
+      "correlation": null,
+      "p_value": null
+    },
+    "spearman": {
+      "correlation": null,
+      "p_value": null
+    },
+    "lagged_correlations": {},
+    "rolling_correlations": [],
+    "granger_causality": null,
+    "interpretation": "Insufficient overlapping price and reported arrival records for this market selection."
+  },
+  "groundnut_district": {
+    "crop_id": "groundnut",
+    "crop_name": "Groundnut",
+    "market_name": "Warangal District Aggregate",
+    "analysis_date": "2026-11-04",
+    "sample_count": 14,
+    "pearson": {
+      "correlation": 0.0864,
+      "p_value": 0.7691,
+      "is_significant": false
+    },
+    "spearman": {
+      "correlation": 0.132,
+      "p_value": 0.6528,
+      "is_significant": false
+    },
+    "lagged_correlations": {
+      "lag_0_days": {
+        "lag_days": 0,
+        "correlation": 0.1999,
+        "p_value": 0.41193,
+        "sample_count": 19,
+        "is_significant": false
+      },
+      "lag_1_days": {
+        "lag_days": 1,
+        "correlation": 0.189,
+        "p_value": 0.42476,
+        "sample_count": 20,
+        "is_significant": false
+      },
+      "lag_3_days": {
+        "lag_days": 3,
+        "correlation": 0.5258,
+        "p_value": 0.02077,
+        "sample_count": 19,
+        "is_significant": true
+      },
+      "lag_7_days": {
+        "lag_days": 7,
+        "correlation": 0.4686,
+        "p_value": 0.04983,
+        "sample_count": 18,
+        "is_significant": true
+      },
+      "lag_15_days": {
+        "lag_days": 15,
+        "correlation": 0.1865,
+        "p_value": 0.47367,
+        "sample_count": 17,
+        "is_significant": false
+      }
+    },
+    "rolling_correlations": [],
+    "granger_causality": null,
+    "interpretation": "Over 14 valid observations, arrivals and modal prices show a moderate positive (higher arrivals coincide with higher prices, often during peak harvest demand) at a 3-day lag. This relationship is statistically significant (p < 0.05). Note: Correlation indicates historical association, not real-world causation.",
+    "selected_lag": 3
+  },
+  "groundnut_Warangal_APMC": {
+    "crop_id": "groundnut",
+    "crop_name": "Groundnut",
+    "market_name": "Warangal APMC",
+    "analysis_date": "2026-11-04",
+    "sample_count": 19,
+    "pearson": {
+      "correlation": 0.073,
+      "p_value": 0.76642,
+      "is_significant": false
+    },
+    "spearman": {
+      "correlation": 0.0576,
+      "p_value": 0.81479,
+      "is_significant": false
+    },
+    "lagged_correlations": {
+      "lag_0_days": {
+        "lag_days": 0,
+        "correlation": 0.073,
+        "p_value": 0.76642,
+        "sample_count": 19,
+        "is_significant": false
+      },
+      "lag_1_days": {
+        "lag_days": 1,
+        "correlation": 0.1857,
+        "p_value": 0.4465,
+        "sample_count": 19,
+        "is_significant": false
+      },
+      "lag_3_days": {
+        "lag_days": 3,
+        "correlation": 0.3895,
+        "p_value": 0.09928,
+        "sample_count": 19,
+        "is_significant": false
+      },
+      "lag_7_days": {
+        "lag_days": 7,
+        "correlation": 0.4649,
+        "p_value": 0.06964,
+        "sample_count": 16,
+        "is_significant": false
+      },
+      "lag_15_days": {
+        "lag_days": 15,
+        "correlation": 0.3164,
+        "p_value": 0.25053,
+        "sample_count": 15,
+        "is_significant": false
+      }
+    },
+    "rolling_correlations": [],
+    "granger_causality": null,
+    "interpretation": "Over 19 valid observations, arrivals and modal prices show a moderate positive (higher arrivals coincide with higher prices, often during peak harvest demand) at a 7-day lag. This relationship is not statistically significant (observed variations may be due to market noise). Note: Correlation indicates historical association, not real-world causation.",
+    "selected_lag": 7
+  },
+  "paddy_district": {
+    "crop_id": "paddy",
+    "crop_name": "Paddy",
+    "market_name": "Warangal District Aggregate",
+    "analysis_date": "2026-11-04",
+    "sample_count": 31,
+    "pearson": {
+      "correlation": -0.0624,
+      "p_value": 0.73877,
+      "is_significant": false
+    },
+    "spearman": {
+      "correlation": -0.1683,
+      "p_value": 0.36554,
+      "is_significant": false
+    },
+    "lagged_correlations": {
+      "lag_0_days": {
+        "lag_days": 0,
+        "correlation": -0.0577,
+        "p_value": 0.74969,
+        "sample_count": 33,
+        "is_significant": false
+      },
+      "lag_1_days": {
+        "lag_days": 1,
+        "correlation": -0.0558,
+        "p_value": 0.75409,
+        "sample_count": 34,
+        "is_significant": false
+      },
+      "lag_3_days": {
+        "lag_days": 3,
+        "correlation": -0.096,
+        "p_value": 0.58316,
+        "sample_count": 35,
+        "is_significant": false
+      },
+      "lag_7_days": {
+        "lag_days": 7,
+        "correlation": -0.0466,
+        "p_value": 0.80329,
+        "sample_count": 31,
+        "is_significant": false
+      },
+      "lag_15_days": {
+        "lag_days": 15,
+        "correlation": 0.0236,
+        "p_value": 0.89778,
+        "sample_count": 32,
+        "is_significant": false
+      }
+    },
+    "rolling_correlations": [
+      {
+        "date": "2026-05-06",
+        "correlation": 0.1555
+      },
+      {
+        "date": "2026-05-18",
+        "correlation": 0.1548
+      },
+      {
+        "date": "2026-05-30",
+        "correlation": 0.1795
+      },
+      {
+        "date": "2026-06-05",
+        "correlation": 0.0888
+      },
+      {
+        "date": "2026-06-11",
+        "correlation": 0.0906
+      },
+      {
+        "date": "2026-06-17",
+        "correlation": -0.149
+      },
+      {
+        "date": "2026-06-23",
+        "correlation": -0.1701
+      },
+      {
+        "date": "2026-06-29",
+        "correlation": -0.35
+      },
+      {
+        "date": "2026-07-05",
+        "correlation": -0.3161
+      },
+      {
+        "date": "2026-07-17",
+        "correlation": -0.2964
+      },
+      {
+        "date": "2026-07-29",
+        "correlation": -0.2742
+      },
+      {
+        "date": "2026-08-10",
+        "correlation": -0.279
+      },
+      {
+        "date": "2026-08-22",
+        "correlation": -0.2732
+      },
+      {
+        "date": "2026-08-28",
+        "correlation": -0.2583
+      },
+      {
+        "date": "2026-09-09",
+        "correlation": -0.277
+      },
+      {
+        "date": "2026-10-15",
+        "correlation": -0.1665
+      },
+      {
+        "date": "2026-10-21",
+        "correlation": -0.1801
+      }
+    ],
+    "granger_causality": {
+      "tested": false,
+      "reason": "grangercausalitytests() got an unexpected keyword argument 'verbose'"
+    },
+    "interpretation": "Over 31 valid observations, arrivals and modal prices show a negligible to very weak negative (higher arrivals tend to correspond with lower prices) at a 3-day lag. This relationship is not statistically significant (observed variations may be due to market noise). Note: Correlation indicates historical association, not real-world causation.",
+    "selected_lag": 3
+  },
+  "paddy_Kesamudram_APMC": {
+    "crop_id": "paddy",
+    "crop_name": "Paddy",
+    "market_name": "Kesamudram APMC",
+    "analysis_date": "2026-11-04",
+    "sample_count": 15,
+    "pearson": {
+      "correlation": -0.0079,
+      "p_value": 0.97758,
+      "is_significant": false
+    },
+    "spearman": {
+      "correlation": -0.3286,
+      "p_value": 0.23181,
+      "is_significant": false
+    },
+    "lagged_correlations": {
+      "lag_0_days": {
+        "lag_days": 0,
+        "correlation": -0.0079,
+        "p_value": 0.97758,
+        "sample_count": 15,
+        "is_significant": false
+      },
+      "lag_1_days": {
+        "lag_days": 1,
+        "correlation": -0.2416,
+        "p_value": 0.38572,
+        "sample_count": 15,
+        "is_significant": false
+      },
+      "lag_3_days": {
+        "lag_days": 3,
+        "correlation": -0.2452,
+        "p_value": 0.37844,
+        "sample_count": 15,
+        "is_significant": false
+      },
+      "lag_7_days": {
+        "lag_days": 7,
+        "correlation": 0.0902,
+        "p_value": 0.78049,
+        "sample_count": 12,
+        "is_significant": false
+      },
+      "lag_15_days": {
+        "lag_days": 15,
+        "correlation": -0.1952,
+        "p_value": 0.52275,
+        "sample_count": 13,
+        "is_significant": false
+      }
+    },
+    "rolling_correlations": [],
+    "granger_causality": null,
+    "interpretation": "Over 15 valid observations, arrivals and modal prices show a weak negative (higher arrivals tend to correspond with lower prices) at a 3-day lag. This relationship is not statistically significant (observed variations may be due to market noise). Note: Correlation indicates historical association, not real-world causation.",
+    "selected_lag": 3
+  },
+  "paddy_Jangaon_APMC": {
+    "crop_id": "paddy",
+    "crop_name": "Paddy",
+    "market_name": "Jangaon APMC",
+    "analysis_date": "2026-11-04",
+    "sample_count": 12,
+    "pearson": {
+      "correlation": 0.3171,
+      "p_value": 0.31526,
+      "is_significant": false
+    },
+    "spearman": {
+      "correlation": 0.1399,
+      "p_value": 0.66463,
+      "is_significant": false
+    },
+    "lagged_correlations": {
+      "lag_0_days": {
+        "lag_days": 0,
+        "correlation": 0.3171,
+        "p_value": 0.31526,
+        "sample_count": 12,
+        "is_significant": false
+      },
+      "lag_1_days": {
+        "lag_days": 1,
+        "correlation": 0.3847,
+        "p_value": 0.21685,
+        "sample_count": 12,
+        "is_significant": false
+      },
+      "lag_3_days": {
+        "lag_days": 3,
+        "correlation": 0.3803,
+        "p_value": 0.22267,
+        "sample_count": 12,
+        "is_significant": false
+      },
+      "lag_7_days": {
+        "lag_days": 7,
+        "correlation": 0.1543,
+        "p_value": 0.67035,
+        "sample_count": 10,
+        "is_significant": false
+      },
+      "lag_15_days": {
+        "lag_days": 15,
+        "correlation": -0.4336,
+        "p_value": 0.24363,
+        "sample_count": 9,
+        "is_significant": false
+      }
+    },
+    "rolling_correlations": [],
+    "granger_causality": null,
+    "interpretation": "Over 12 valid observations, arrivals and modal prices show a moderate negative (higher arrivals tend to correspond with lower prices) at a 15-day lag. This relationship is not statistically significant (observed variations may be due to market noise). Note: Correlation indicates historical association, not real-world causation.",
+    "selected_lag": 15
+  },
+  "red_gram_district": {
+    "crop_id": "red_gram",
+    "crop_name": "Red Gram",
+    "market_name": "Warangal District Aggregate",
+    "analysis_date": "2026-11-04",
+    "sample_count": 8,
+    "pearson": {
+      "correlation": 0.3857,
+      "p_value": 0.34527,
+      "is_significant": false
+    },
+    "spearman": {
+      "correlation": 0.0714,
+      "p_value": 0.86653,
+      "is_significant": false
+    },
+    "lagged_correlations": {
+      "lag_0_days": {
+        "lag_days": 0,
+        "correlation": 0.4097,
+        "p_value": 0.27347,
+        "sample_count": 9,
+        "is_significant": false
+      },
+      "lag_1_days": {
+        "lag_days": 1,
+        "correlation": 0.1813,
+        "p_value": 0.64058,
+        "sample_count": 9,
+        "is_significant": false
+      },
+      "lag_3_days": {
+        "lag_days": 3,
+        "correlation": -0.0364,
+        "p_value": 0.93188,
+        "sample_count": 8,
+        "is_significant": false
+      },
+      "lag_7_days": {
+        "lag_days": 7,
+        "correlation": null,
+        "p_value": null,
+        "sample_count": 6,
+        "is_significant": false
+      },
+      "lag_15_days": {
+        "lag_days": 15,
+        "correlation": null,
+        "p_value": null,
+        "sample_count": 6,
+        "is_significant": false
+      }
+    },
+    "rolling_correlations": [],
+    "granger_causality": null,
+    "interpretation": "Insufficient overlapping price and arrival records to establish a reliable relationship.",
+    "selected_lag": 0
+  },
+  "red_gram_Kesamudram_APMC": {
+    "crop_id": "red_gram",
+    "crop_name": "Red Gram",
+    "market_name": "Kesamudram APMC",
+    "analysis_date": "2026-11-04",
+    "sample_count": 6,
+    "pearson": {
+      "correlation": null,
+      "p_value": null
+    },
+    "spearman": {
+      "correlation": null,
+      "p_value": null
+    },
+    "lagged_correlations": {},
+    "rolling_correlations": [],
+    "granger_causality": null,
+    "interpretation": "Insufficient overlapping price and reported arrival records for this market selection."
+  }
+}
